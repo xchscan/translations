@@ -1,0 +1,71 @@
+{
+  "title": "XCHscan - Join the XCHscan Chia pool, enjoy the lowest fees in theindustry",
+  "heading": [
+    "Start farming Chia with XCHscan Pool",
+    "Join the XCHscan Chia pool, enjoy the lowest fees in the industry"
+  ],
+  "joinPool": "Join our Pool",
+  "why": {
+    "heading": "Why XCHscan.com ?",
+    "content": "XCHscan is the leading Block Explorer, Search, API and Analytics Platform for the Chia Network blockchain.",
+    "list": [
+      {
+        "heading": "Official Protocol",
+        "content": "Our pooling code will use Chia's official method to calculate farmer's share, collect to pool wallet, and distribute XCH to pool participants."
+      },
+      {
+        "heading": "0.1% Fees, Forever",
+        "content": "The lowest fees, more rewards. From day 1 there will be a 0.1% fee, and no other hidden fees. Fees are used to fund the operation and development of xchscan.com"
+      },
+      {
+        "heading": "Secure and Transparent",
+        "content": "Without storing private user data, all profits, uptimes and individual user shares are clearly displayed."
+      },
+      {
+        "heading": "Comprehensive Service",
+        "content": "Our comprehensive service is committed to improving farmers' income, and providing a one-stop farming ecosphere."
+      },
+      {
+        "heading": "Automatic Payouts",
+        "content": "No hassle. Once setup, simply add your receiving XCH address to receive your farmed XCH."
+      },
+      {
+        "heading": "Industry Pioneer Builders",
+        "content": "Our team is dedicated to building the necessary tools for Chia mass adoption."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "FAQ - Answers to your questions",
+    "list": [
+      {
+        "heading": "Do I need to replot for joining the pool?",
+        "content": "Yes. Any plots generated before the public pooling protocol release will be required to re-plot (original plots). The new plot generated after the pooling protocol update (End of May) is called portable plots."
+      },
+      {
+        "heading": "What about my current plots?",
+        "content": "Your current plots can be used for solo farming and there is still a chance you can earn a block from your original plots. We recommend only replotting once you’re out of space and/or have extra compute power."
+      },
+      {
+        "heading": "Are my portable plots bound to a specific pool?",
+        "content": "No. Your portable plots are not binding any pools. You can always switch pools."
+      },
+      {
+        "heading": "Do I need to pay to switch to the XCHscan Pool ?",
+        "content": "Yes. It will require 1 mojo (1 trillionth of a XCH) to switch pools. The mojo is used to make a transaction with a smart contract on the blockchain. For those who don't have any XCH, you can get 100 mojos from Chia's official faucet: <0>https://faucet.chia.net</0>"
+      },
+      {
+        "heading": "When will the XCHscan Chia Pool come online?",
+        "content": "As soon as the Chia Network pool protocol announcement goes live. Currently scheduled for the 1st of June 2021."
+      },
+      {
+        "heading": "Do you really have the lowest fees ?",
+        "content": "That’s correct. As of today, other Chia pools charge on average 1%. Are you aware of another pool charging less ? Drop us a message and we'll match it."
+      },
+      {
+        "heading": "How do I contact XCHscan Pool ?",
+        "content": "You can reach out to us through pools@xchscan.com or follow our pool announcements on Telegram: <0>https://t.me/xchscanpools</0>."
+      }
+    ]
+  }
+}

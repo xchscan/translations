@@ -1,0 +1,66 @@
+{
+  "title": "Transaction | XCHscan",
+  "heading": "Transactions",
+  "listing": "More than > {{count}} transactions found",
+  "hash": "Txn Hash",
+  "type": "Type",
+  "typeTxn": "Transaction",
+  "typePoolReward": "Pool Reward",
+  "typeFarmerReward": "Farmer Reward",
+  "age": "Age",
+  "ageDT": "Date Time (UTC)",
+  "confirmed": "Confirmed Block",
+  "from": "From",
+  "to": "To",
+  "txnIn": "IN",
+  "txnOut": "OUT",
+  "amount": "Amount",
+  "filter": {
+    "placeholder": "Search by address e.g. xch..",
+    "filter": "Filter",
+    "clear": "Clear",
+    "by": "Filtered By:",
+    "from": "From:",
+    "to": "To:"
+  },
+  "txn": {
+    "title": "Chia Transaction #{{txn}} | XCHscan",
+    "heading": "Transaction Details",
+    "hash": {
+      "text": ["Txn Hash"],
+      "tooltip": "A Txn Hash or transaction hash is a unique 66 characters identifier that is generated whenever a transaction is executed."
+    },
+    "status": {
+      "text": ["Status", "Success", "Spent", "Unspent"],
+      "tooltip": "The status of the transaction."
+    },
+    "block": {
+      "text": ["Block"],
+      "tooltip": "The number of the block in which the transaction was recorded."
+    },
+    "timestamp": {
+      "text": ["Timestamp"],
+      "tooltip": "The date and time at which a transaction is mined."
+    },
+    "value": {
+      "text": ["Value"],
+      "tooltip": "The value being transacted in XCH and fiat value"
+    },
+    "price": {
+      "text": ["XCH Price"],
+      "tooltip": "Closing price of XCH on date of transaction"
+    },
+    "from": {
+      "text": ["From"],
+      "tooltip": "The sending party of the transaction."
+    },
+    "to": {
+      "text": ["To"],
+      "tooltip": "The receiving party of the transaction."
+    },
+    "type": {
+      "text": ["Type", "Transaction", "Pool Reward", "Farmer Reward"],
+      "tooltip": "Type of transaction."
+    }
+  }
+}
