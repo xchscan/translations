@@ -1,0 +1,32 @@
+{
+  "title": "Blocks | XCHscan",
+  "heading": "블록(Blocks)",
+  "listing": "Block #{{from}} to #{{to}} (Total of {{count}} blocks)",
+  "blocks": "블록(Block)",
+  "type": "타입(Type)",
+  "typeBlock": "블록(Block)",
+  "typeTxBlock": "전송블록(TX Block)",
+  "age": "Age",
+  "txn": "전송(Txn)",
+  "miner": "채굴자(Miner)",
+  "weight": "Weight",
+  "reward": "치아 보상(Chia Rewards)",
+  "volume": "전송 볼륨(Transaction Volume)",
+  "block": {
+    "title": "Chia Block #{{block}} | XCHscan",
+    "heading": "Block <0>#{{block}}</0>",
+    "height": "Block Height",
+    "hash": "해더 해쉬(Header Hash)",
+    "timestamp": "타임스탬프(Timestamp)",
+    "transactions": [
+      "전송(Transactions)",
+      "{{txns}} transactions and {{rewards}} rewards"
+    ],
+    "farmer": "파머(Farmer)",
+    "pool": "풀(Pool)",
+    "poolReward": "풀 보상(Pool Reward)",
+    "farmerReward": "파머 보상(Farmer Reward)",
+    "fees": "수수료(Fees)",
+    "price": "치아코인 가격(XCH Price)"
+  }
+}
