@@ -1,0 +1,58 @@
+{
+  "header": {
+    "menu": {
+      "home": "Home",
+      "pools": "Pools",
+      "pool": "XCHscan Pool",
+      "otherPools": "Other Pools",
+      "farmingCalculator": "Farming Calculator",
+      "blockchain": "Blockchain",
+      "viewBlocks": "View Blocks",
+      "viewTxns": "View Txns",
+      "topFarmers": "Top farmers",
+      "languages": "Languages",
+      "english": "English"
+    }
+  },
+  "search": {
+    "filters": {
+      "all": "All Filters",
+      "txns": "Txns",
+      "blocks": "Blocks"
+    },
+    "placeholder": "Search by Address / Txn Hash / Block",
+    "list": {
+      "address": "Addresses",
+      "txns": "Txns",
+      "blocks": "Blocks"
+    }
+  },
+  "footer": {
+    "description": "XCHscan is a Block Explorer and Analytics Platform for Chia Network, a new blockchain and smart transaction platform.",
+    "poweredBy": "Powered by",
+    "links": {
+      "pools": "Pools",
+      "pool": "XCHscan Pool",
+      "otherPools": "Other Pools",
+      "farmingCalculator": "Farming Calculator",
+      "explore": "Explore",
+      "blockExplorer": "Block Explorer",
+      "latestBlocks": "Latest Blocks",
+      "latestTxns": "Latest Transactions",
+      "company": "Company",
+      "about": "About",
+      "advertise": "Advertise",
+      "contact": "Contact",
+      "terms": "Terms"
+    }
+  },
+  "sponsored": "Sponsored",
+  "pagination": {
+    "first": "First",
+    "last": "Last"
+  },
+  "validation": {
+    "required": "{{field}} is required",
+    "invalid": "Please provide a valid {{field}}"
+  }
+}

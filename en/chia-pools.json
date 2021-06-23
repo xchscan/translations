@@ -1,0 +1,14 @@
+{
+  "title": "XCHscan - Chia Pool Index",
+  "heading": ["Farming Pools", "Chia Pools Listing Information"],
+  "submitPool": "Submit a Chia Pool",
+  "table": {
+    "heading": "List of Chia Farming Pools",
+    "pool": "Pool",
+    "verified": "Verified",
+    "fees": "Pool fee",
+    "networkSpace": "Network space",
+    "blockHeight": "Block height",
+    "lastReward": "Last reward received"
+  }
+}

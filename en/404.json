@@ -1,0 +1,8 @@
+{
+  "title": "XCHscan - Page not Found",
+  "description": "<0>Sorry!</0> We encountered an unexpected error.",
+  "addressDescription": "<0>Sorry!</0> Address not found.",
+  "blockDescription": "<0>Sorry!</0> Block not found.",
+  "txnDescription": "<0>Sorry!</0> Transaction not found.",
+  "back": "Go back home"
+}
