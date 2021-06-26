@@ -11,7 +11,7 @@
       "viewTxns": "전송 조회",
       "topFarmers": "파머 순위",
       "languages": "언어",
-      "english": "영어"
+      "charts": "Charts & Stats"
     }
   },
   "search": {
@@ -43,7 +43,8 @@
       "about": "서비스 소개",
       "advertise": "광고",
       "contact": "연락하기",
-      "terms": "약관"
+      "terms": "약관",
+      "charts": "Charts & Stats"
     }
   },
   "sponsored": "협찬",

@@ -1,5 +1,4 @@
 {
-  "title": "Transaction | XCHscan",
   "heading": "Transactions",
   "listing": "More than > {{count}} transactions found",
   "hash": "Txn Hash",
@@ -24,7 +23,6 @@
     "to": "To:"
   },
   "txn": {
-    "title": "Chia Transaction #{{txn}} | XCHscan",
     "heading": "Transaction Details",
     "hash": {
       "text": ["Txn Hash"],

@@ -1,5 +1,4 @@
 {
-  "title": "Blocks | XCHscan",
   "heading": "Blocks",
   "listing": "Block #{{from}} to #{{to}} (Total of {{count}} blocks)",
   "blocks": "Block",
@@ -13,7 +12,6 @@
   "reward": "Chia Rewards",
   "volume": "Transaction Volume",
   "block": {
-    "title": "Chia Block #{{block}} | XCHscan",
     "heading": "Block <0>#{{block}}</0>",
     "height": "Block Height",
     "hash": "Header Hash",

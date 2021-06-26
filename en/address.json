@@ -1,5 +1,4 @@
 {
-  "title": "`Chia Address #{{address}} | XCHscan`",
   "heading": "Address <0>{{address}}</0>",
   "overview": "Overview",
   "moreInfo": "More Info",

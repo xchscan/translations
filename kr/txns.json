@@ -1,5 +1,4 @@
 {
-  "title": "Transaction | XCHscan",
   "heading": "전송",
   "listing": "More than > {{count}} transactions found",
   "hash": "전송 해시",
@@ -24,7 +23,6 @@
     "to": "To:"
   },
   "txn": {
-    "title": "치아 전송내역 #{{txn}} | XCHscan",
     "heading": "전송 세부내역",
     "hash": {
       "text": ["전송 해시"],
