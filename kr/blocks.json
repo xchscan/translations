@@ -1,0 +1,32 @@
+{
+  "title": "Blocks | XCHscan",
+  "heading": "블록",
+  "listing": "Block #{{from}} to #{{to}} (Total of {{count}} blocks)",
+  "blocks": "블록",
+  "type": "타입",
+  "typeBlock": "블록",
+  "typeTxBlock": "전송블록",
+  "age": "Age",
+  "txn": "전송",
+  "miner": "채굴자",
+  "weight": "Weight",
+  "reward": "치아 보상",
+  "volume": "전송 볼륨",
+  "block": {
+    "title": "Chia Block #{{block}} | XCHscan",
+    "heading": "Block <0>#{{block}}</0>",
+    "height": "Block Height",
+    "hash": "해더 해쉬",
+    "timestamp": "타임스탬프",
+    "transactions": [
+      "전송",
+      "{{txns}} 전송 그리고 {{rewards}} 보상"
+    ],
+    "farmer": "파머",
+    "pool": "풀",
+    "poolReward": "풀 보상",
+    "farmerReward": "파머 보상",
+    "fees": "수수료",
+    "price": "치아코인 가격"
+  }
+}
