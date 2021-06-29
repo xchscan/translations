@@ -55,5 +55,8 @@
   "validation": {
     "required": "{{field}} 가 필요합니다.",
     "invalid": "유효한 {{field}}를 넣어주세요"
+  },
+  "chart": {
+    "source": "Source: XCHscan.com"
   }
 }

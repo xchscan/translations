@@ -55,5 +55,8 @@
   "validation": {
     "required": "{{field}} is required",
     "invalid": "Please provide a valid {{field}}"
+  },
+  "chart": {
+    "source": "Source: XCHscan.com"
   }
 }

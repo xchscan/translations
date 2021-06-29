@@ -1,4 +1,6 @@
 {
+  "metaTitle": "All Chia (XCH) Latest Transactions | XCHscan",
+  "metaDescription": "All Chia (XCH) Transactions confirmed on the Chia Blockchain. The list consists of transactions from sending Chia (XCH) and the transactions details for each transaction.",
   "heading": "전송",
   "listing": "More than > {{count}} transactions found",
   "hash": "전송 해시",
@@ -23,6 +25,8 @@
     "to": "To:"
   },
   "txn": {
+    "metaTitle": "Chia (XCH) Transaction {{txn}} | XCHscan",
+    "metaDescription": "Chia (XCH) Blockchain detailed info for transaction {{txn}}.",
     "heading": "전송 세부내역",
     "hash": {
       "text": ["전송 해시"],

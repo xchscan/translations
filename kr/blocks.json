@@ -1,4 +1,6 @@
 {
+  "metaTitle": "All Chia (XCH) Latest Blocks | XCHscan",
+  "metaDescription": "All Chia (XCH) Blocks that are included in the Chia blockchain. The timestamp, farmer, block reward, difficulty and included transactions are shown.",
   "heading": "블록",
   "listing": "Block #{{from}} to #{{to}} (Total of {{count}} blocks)",
   "blocks": "블록",
@@ -12,14 +14,13 @@
   "reward": "치아 보상",
   "volume": "전송 볼륨",
   "block": {
+    "metaTitle": "Chia (XCH) Block {{block}} | XCHscan",
+    "metaDescription": "Chia (XCH) Block Height {{block}}. The timestamp, block reward, difficulty, fees, number of transactions and rewards in the block are detailed on XCHscan.",
     "heading": "Block <0>#{{block}}</0>",
     "height": "Block Height",
     "hash": "해더 해쉬",
     "timestamp": "타임스탬프",
-    "transactions": [
-      "전송",
-      "{{txns}} 전송 그리고 {{rewards}} 보상"
-    ],
+    "transactions": ["전송", "{{txns}} 전송 그리고 {{rewards}} 보상"],
     "farmer": "파머",
     "pool": "풀",
     "poolReward": "풀 보상",

@@ -1,4 +1,6 @@
 {
+  "metaTitle": "Chia (XCH) Address {{address}} | XCHscan",
+  "metaDescription": "Chia (XCH) Address {{address}} page allows users to view transactions, balances, token holdings and transfers.",
   "heading": "Address <0>{{address}}</0>",
   "overview": "Overview",
   "moreInfo": "More Info",
