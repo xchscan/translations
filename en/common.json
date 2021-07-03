@@ -11,7 +11,8 @@
       "viewTxns": "View Txns",
       "topFarmers": "Top farmers",
       "languages": "Languages",
-      "charts": "Charts & Stats"
+      "charts": "Charts & Stats",
+      "topAccounts": "Top Accounts"
     }
   },
   "search": {
@@ -44,7 +45,8 @@
       "advertise": "Advertise",
       "contact": "Contact",
       "terms": "Terms",
-      "charts": "Charts & Stats"
+      "charts": "Charts & Stats",
+      "api": "APIs"
     }
   },
   "sponsored": "Sponsored",
