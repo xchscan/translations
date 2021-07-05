@@ -1,0 +1,11 @@
+{
+  "heading": "地址 <0>{{address}}</0>",
+  "overview": "概览",
+  "moreInfo": "更多信息",
+  "balance": "余额:",
+  "balanceTooltip": "XCHscan可能会显示与Chia钱包中不同的结果，<0>两者都是正确的。</0><1></1>代币可能会被发送到不同的地址。钱包知道你的所有地址，但XCHscan不知道。您当前正在查看一个特定地址。",
+  "value": "XCH价值:",
+  "tokens": "代币:",
+  "nameTag": "我的名字标签：",
+  "txns": "交易"
+}

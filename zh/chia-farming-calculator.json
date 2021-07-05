@@ -1,0 +1,22 @@
+{
+  "heading": [
+    "耕种计算器",
+    "知道耕种Chia是否赚钱"
+  ],
+  "viewPools": "查看池子",
+  "calculator": {
+    "heading": "耕种计算器",
+    "content": "XCHscan提供了一个简单工具，帮助计算耕种Chia是否会获利。",
+    "plotSize": "Plot大小",
+    "noOfPlots": "Plot数",
+    "network": [
+      "网络",
+      "网络空间总量",
+      "包括你的空间",
+      "已拥有网络空间",
+      "预计获利时间"
+    ],
+    "earnings": ["估计收入", "每时", "每天", "每月"],
+    "chanceToWin": ["获利机会", "每时", "每天", "每月"]
+  }
+}

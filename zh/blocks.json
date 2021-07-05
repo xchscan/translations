@@ -1,0 +1,30 @@
+{
+  "heading": "区块",
+  "listing": "区块#{{from}}到#{{to}} (区块数{{count}})",
+  "blocks": "区块",
+  "type": "类型",
+  "typeBlock": "区块",
+  "typeTxBlock": "TX区块",
+  "age": "时期",
+  "txn": "Txn",
+  "miner": "矿工",
+  "weight": "重量",
+  "reward": "Chia奖励",
+  "volume": "交易量",
+  "block": {
+    "heading": "区块 <0>#{{block}}</0>",
+    "height": "区块高度",
+    "hash": "哈希",
+    "timestamp": "时间戳",
+    "transactions": [
+      "交易",
+      "{{txns}} 交易和 {{rewards}} 奖励"
+    ],
+    "farmer": "耕种",
+    "pool": "池",
+    "poolReward": "池子奖励",
+    "farmerReward": "耕种奖励",
+    "fees": "费用",
+    "price": "XCH 价格"
+  }
+}
