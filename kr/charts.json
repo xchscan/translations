@@ -1,116 +1,116 @@
 {
-  "metaTitle": "Chia (XCH) Charts & Statistics | XCHscan",
-  "metaDescription": "XCHscan provides a suite of real-time Chia (XCH) data charts and statistics to track everything about the Chia (XCH) cryptocurrency : Price, Supply, Marketcap, Netspace and others.",
-  "heading": "Chia Charts & Statistics",
+  "metaTitle": "치아(XCH) 차트 & 통계 | XCHscan",
+  "metaDescription": "XCHscan은 실시간 XCH 데이터 차트와 통계 데이터를 제공하며 XCH와 관련된 모든 것을 한 눈에 볼 수 있습니다 : 가격, 공급량, 시가총액, 넷스페이스 등",
+  "heading": "치아 차트 & 통계",
   "chiaPrice": {
-    "metaTitle": "Chia (XCH) Price Today : Info, Chart, Stats | XCHscan",
-    "metaDescription": "The Chia Daily Price (USD) chart shows the daily historical price for Chia in USD. All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
-    "heading": "Chia Daily Price (USD) Chart",
-    "description": "The Chia Daily Price (USD) chart shows the daily historical price for Chia in USD.",
-    "yLabel": "Chia Price (USD)"
+    "metaTitle": "치아 코인(XCH)의 가격 : 정보, 차트, 통계 | XCHscan",
+    "metaDescription": "치아코인의 역사적 가격을 달러 단위로 보여줍니다. 모든 데이터는 실시간이며, 치아블록체인을 통해 직접 수집됩니다.",
+    "heading": "치아 코인의 날짜별 가격(USD) 차트",
+    "description": "치아 코인의 날짜별 가격(USD) 차트는 치아 코인 가격의 매일 가격을 USD단위로 보여줍니다.",
+    "yLabel": "치아코인 가격 (USD)"
   },
   "supply": {
-    "metaTitle": "Chia (XCH) Total Supply and Market Capitalization Chart | XCHscan",
-    "metaDescription": "The table and pie chart shows the distribution of Chia from reward of both block and uncle block mining to arrive at the current total Chia supply. The Chia (XCH) price in USD is also shown in the table below. With both the total supply of Chia and the current price in USD, we can arrive at the market capitalization as shown in the pie chart.",
-    "heading": "Chia Total Supply and Market Capitalization Chart",
-    "description": "The table and pie chart shows the distribution of Chia from reward of both block and uncle block mining to arrive at the current total Chia supply. The Chia (XCH) price in USD is also shown in the table below. With both the total supply of Chia and the current price in USD, we can arrive at the market capitalization as shown in the pie chart.",
-    "totalSupply": "Total Chia Supply",
-    "marketCap": "Market Capitalization",
+    "metaTitle": "치아(XCH)의 총 공급량과 시가총액 | XCHscan",
+    "metaDescription": "이 테이블과 파이 차트는 현재 치아 공급량을 기준으로 치아의 블록 리워드와 엉클 블록 마이닝 리워드를 보여줍니다. 치아 가격은 USD단위이며, 총 공급량을 보여줍니다. 파이 차트에서 시가총액을 확인할 수 있습니다.",
+    "heading": "치아의 총 공급량과 시가총액 차트",
+    "description": "이 테이블과 파이차트는 치아의 블록 리워드와 엉클 블록 마이닝 리워드를 보여줍니다.치아 가격은 USD단위이며, 총 공급량을 보여줍니다. 파이 차트에서 시가총액을 확인할 수 있습니다.",
+    "totalSupply": "치아 총 공급량",
+    "marketCap": "시가총액",
     "distribution": {
-      "heading": "Chia Distribution Overview",
-      "genesis": "Genesis (Pre Farm):",
-      "blockRewards": "Mining Block Rewards:",
-      "totalSupply": "Current Total Supply"
+      "heading": "치아 분배 통계",
+      "genesis": "제네시스(사전 파밍):",
+      "blockRewards": "마이닝 블록 리워드:",
+      "totalSupply": "현재 총 공급량"
     },
     "price": {
-      "heading": "Price per Chia",
-      "usd": "In USD:",
-      "btc": "In BTC:"
+      "heading": "치아 코인 개당 가격",
+      "usd": "USD 기준:",
+      "btc": "BTC 기준:"
     },
-    "chartTitle": "Breakdown by Supply Types"
+    "chartTitle": "공급별 세부 내역"
   },
   "marketCap": {
-    "metaTitle": "Chia (XCH) Market Capitalization Chart | XCHscan",
-    "metaDescription": "The Chia (XCH) Market Capitalization chart shows the historical breakdown of Chia (XCH) daily market capitalization and price. All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
-    "heading": "Chia Market Capitalization Chart",
-    "description": "The Chia Market Capitalization chart shows the historical breakdown of Chia daily market capitalization and price.",
-    "yLabel": "Chia Market Cap (USD)"
+    "metaTitle": "치아의 시가총액 차트 | XCHscan",
+    "metaDescription": "치아의 시가총액 차트는 치아 코인의 시가총액과 가격의 일자별 역사적 데이터를 제공합니다. 모든 데이터는 실시간이며, 치아블록체인을 통해 직접 수집됩니다.",
+    "heading": "치아의 시가총액 차트",
+    "description": "치아의 시가총액 차트는 치아 코인의 시가총액과 가격의 일자별 역사적 데이터를 제공합니다.",
+    "yLabel": "치아 시가총액(USD)"
   },
   "netspace": {
-    "metaTitle": "Chia (XCH) Netspace Chart : History, Evolution, Growth | XCHscan",
-    "metaDescription": "The Chia Network (XCH) Network Space Chart or Netspace Chart shows the historical measure of the space allocated to Chia network (XCH). All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
-    "heading": "Chia Network Space Chart",
-    "description": "The Chia Network Space Chart shows the historical measure of the space allocated to Chia network.",
-    "yLabel": "Network Space"
+    "metaTitle": "치아 블록체인의 넷 스페이스 차트 : 역사, 변화, 성장 | XCHscan",
+    "metaDescription": "치아의 넷 스페이스 차트는 치아 네트워크에 참여하는 네트워크 공간의 역사적 데이터를 보여줍니다. 모든 데이터는 실시간이며, 치아블록체인을 통해 직접 수집됩니다.",
+    "heading": "치아 블록체인 네트워크 스페이스 차트",
+    "description": "치아 블록체인의 넷 스페이스 차트는 치아 네트워크에 참여하는 네트워크 공간의 역사적 데이터를 보여줍니다.",
+    "yLabel": "네트워크 스페이스"
   },
   "chiaSupply": {
-    "metaTitle": "Chia (XCH) Supply Chart : Circulating, Total, Pre-farmed | XCHscan",
-    "metaDescription": "The Chia Network (XCH) Supply Growth Chart shows a breakdown of daily block reward and the total Chia (XCH) supply. All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
-    "heading": "Chia Supply Growth Chart",
-    "description": "The Chia Supply Growth Chart shows a breakdown of daily block reward and the total Chia supply.",
-    "yLabel": "Chia Supply"
+    "metaTitle": "치아(XCH) 공급량 차트 : 유통량, 총량, 사전 파밍 | XCHscan",
+    "metaDescription": "치아(XCH)의 공급량 차트는 일자별 블록 리워드 및 총 공급량 등 세부내역을 보여줍니다. 모든 데이터는 실시간이며, 치아블록체인을 통해 직접 수집됩니다.",
+    "heading": "치아(XCH) 공급량 차트",
+    "description": "치아(XCH)의 공급량 차트는 일자별 블록 리워드 및 총 공급량 등 세부내역을 보여줍니다.",
+    "yLabel": "치아 공급량"
   },
   "txns": {
-    "metaTitle": "Chia (XCH) Transactions Chart : Info, Statistics, Growth | XCHscan",
-    "metaDescription": "The Chia (XCH) transactions chart highlights the total number of transactions on the Chia Network blockchain with daily individual breakdown for estimated net space, average block weight, total blocks and total new address seen.",
-    "heading": "Chia Daily Transactions Chart",
-    "description": "The chart highlights the total number of transactions on the Chia blockchain with daily individual breakdown for estimated net space, average block weight, total blocks and total new address seen.",
-    "yLabel": "Transactions per Day"
+    "metaTitle": "치아 (XCH)의 트랜잭션 차트 : 정보, 통계, 성장 | XCHscan",
+    "metaDescription": "치아 블록체인의 트랜잭션 차트는 치아 블록체인의 일자별 총 트랜잭션 수, 넷 스페이스, 평균 블록의 사이즈, 총 블록수와 새로운 지갑수 등 정보를 보여줍니다.",
+    "heading": "치아의 일자별 트랜잭션 차트",
+    "description": "치아 블록체인의 트랜잭션 차트는 치아 블록체인의 일자별 총 트랜잭션 수, 넷 스페이스, 평균 블록의 사이즈, 총 블록수와 새로운 지갑수 등 정보를 보여줍니다.",
+    "yLabel": "일별 트랜잭션"
   },
   "blockRewards": {
-    "metaTitle": "Chia (XCH) Block Rewards Chart : Info, Stats, Evolution | XCHscan",
-    "metaDescription": "The Chia Network (XCH) Daily Block Rewards Chart shows the total Chia supplied to the Chia network. All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
-    "heading": "Chia Daily Block Rewards Chart",
-    "description": "The Chia Daily Block Rewards Chart shows the total Chia supplied to the Chia network.",
-    "yLabel": "New Chia supply per Day"
+    "metaTitle": "치아(XCH) 블록 보상 차트 : 정보, 통계, 상태, 변화 | XCHscan",
+    "metaDescription": "치아(XCH)의 일자별 보상 차트는 치아 네트워크에 공급된 치아 공급량을 보여줍니다. 모든 데이터는 실시간이며, 치아블록체인을 통해 직접 수집됩니다.",
+    "heading": "치아의 일자별 블록 리워드 차트",
+    "description": "치아(XCH)의 일자별 보상 차트는 치아 네트워크에 공급된 치아 공급량을 보여줍니다. ",
+    "yLabel": "일자별 신규 치아 공급량"
   },
   "blocks": {
-    "metaTitle": "Chia (XCH) Block Count and Rewards Chart | XCHscan",
-    "metaDescription": "The Chia Network (XCH) Block Count and Rewards Chart shows the historical number of blocks produced daily on the Chia network and the total block reward. All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
-    "heading": "Chia Block Count and Rewards Chart",
-    "description": "The Chia Block Count and Rewards Chart shows the historical number of blocks produced daily on the Chia network and the total block reward.",
-    "yLabel": "Blocks per Day"
+    "metaTitle": "치아(XCH)의 블록 카운트 및 리워드 차트 | XCHscan",
+    "metaDescription": "치아 블록체인의 블록 카운트 및 리워드 차트는 일별 생성된 블록의 역사적 데이터와 총 블록 리워드를 보여줍니다. 모든 데이터는 실시간이며, 치아블록체인을 통해 직접 수집됩니다.",
+    "heading": "치아(XCH)의 블록 카운트 및 리워드 차트",
+    "description": "치아 블록체인의 블록 카운트 및 리워드 차트는 일별 생성된 블록의 역사적 데이터와 총 블록 리워드를 보여줍니다. ",
+    "yLabel": "일별 블록수"
   },
   "addresses": {
-    "metaTitle": "Chia (XCH) Unique Addresses Chart : Info, Stats, Growth | XCHscan",
-    "metaDescription": "The Chia Network (XCH) unique addresses chart shows the total distinct numbers of address on the Chia blockchain and the increase in the number of address daily.",
-    "heading": "Chia Unique Addresses Chart",
-    "description": "The chart shows the total distinct numbers of address on the Chia blockchain and the increase in the number of address daily.",
-    "yLabel": "Chia Cumulative Addresses Growth"
+    "metaTitle": "치아(XCH) 고유 지갑 주소 차트 : 정보, 상태, 성장 | XCHscan",
+    "metaDescription": "치아 네트워크의 고유한 지갑 개수 차트는 일별 고유 지갑 개수의 수와 성장세를 역사적 데이터로 보여줍니다.",
+    "heading": "치아의 고유한 지갑 주소 차트",
+    "description": "치아 네트워크의 고유한 지갑 개수 차트는 일별 고유 지갑 개수의 수와 성장세를 역사적 데이터로 보여줍니다.",
+    "yLabel": "치아의 누적 지갑 개수 성장"
   },
   "activeAddresses": {
-    "metaTitle": "Chia (XCH) Active Addresses Chart : Info, Stats, Activity | XCHscan",
-    "metaDescription": "The Chia Network (XCH) Active Address chart shows the daily number of unique addresses that were active on the network as a sender or receiver. All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
-    "heading": "Active Chia Addresses Chart",
-    "description": "The Active Chia Address chart shows the daily number of unique addresses that were active on the network as a sender or receiver.",
-    "yLabel": "Active Chia Addresses"
+    "metaTitle": "치아의 활성화 지갑 수 차트 : 정보, 상태, 활성화 | XCHscan",
+    "metaDescription": "활성화된 치아 지갑 주소 갯수 차트는 일별 실제 거래가 발생한 발송자, 수취자 등 활성화된 고유 지갑 개수를 보여줍니다. 모든 데이터는 실시간이며, 치아블록체인을 통해 직접 수집됩니다.",
+    "heading": "활성화 치아 지갑 수 차트",
+    "description": "활성화된 치아 지갑 주소 갯수 차트는 일별 실제 거래가 발생한 발송자, 수취자 등 활성화된 고유 지갑 개수를 보여줍니다.",
+    "yLabel": "활성화 치아 지갑 수"
   },
   "txnFee": {
-    "metaTitle": "Chia (XCH) Transaction Fee History : Average Transaction Fee | XCHscan",
-    "metaDescription": "The Chia Network (XCH) transaction fee chart shows the daily average amount in USD spent per transaction on the Chia network (XCH). All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
-    "heading": "Average Transaction Fee Chart",
-    "description": "The chart shows the daily average amount in USD spent per transaction on the Chia network.",
-    "yLabel": "Average Transaction Fee (USD)"
+    "metaTitle": "역사적 치아 트랜잭션 수수료 차트 : 평균 전송 수수료 | XCHscan",
+    "metaDescription": "치아 네트워크의 평균 트랜잭션 수수료 차트는 USD기준으로 전송당 소모된 수수료의 일자별 데이터를 제공합니다. 모든 데이터는 실시간이며, 치아블록체인을 통해 직접 수집됩니다.",
+    "heading": "평균 트랜잭션 수수료 차트",
+    "description": "치아 네트워크의 평균 트랜잭션 수수료 차트는 USD기준으로 전송당 소모된 수수료의 일자별 데이터를 제공합니다.",
+    "yLabel": "평균 트랜잭션 수수료(USD)"
   },
   "txnVolume": {
-    "metaTitle": "Chia (XCH) Transaction Volume Chart : Average Transaction Volume | XCHscan",
-    "metaDescription": "The Chia Network (XCH) average transaction volume chart shows the daily average amount in USD spent per transaction on the Chia network including farming rewards.",
-    "heading": "Average Transaction Volume Chart",
-    "description": "The chart shows the daily average amount in USD spent per transaction on the Chia network including farming rewards.",
-    "yLabel": "Average Transaction Volume (USD)"
+    "metaTitle": "치아(XCH) 트랜잭션 볼륨 차트 : 평균 트랜잭션 볼륨 | XCHscan",
+    "metaDescription": "평균 트랜잭션 볼륨 차트는 파밍 리워드를 포함하여 일자별 트랜잭션 볼륨을 USD 단위로 보여줍니다.",
+    "heading": "평균 트랜잭션 볼륨 차트",
+    "description": "평균 트랜잭션 볼륨 차트는 파밍 리워드를 포함하여 일자별 트랜잭션 볼륨을 USD 단위로 보여줍니다.",
+    "yLabel": "평균 트랜잭션 볼륨(USD)"
   },
   "xchTib": {
-    "metaTitle": "Daily Chia (XCH) Farming Reward per TiB Chart | XCHscan",
-    "metaDescription": "The Chia Network (XCH) Daily XCH per TiB Chart shows the expected daily farmed XCH per TiB. All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
-    "heading": "Daily XCH per TiB Chart",
-    "description": "The Daily XCH per TiB Chart shows the expected daily farmed XCH per TiB.",
-    "yLabel": "Chia Amount"
+    "metaTitle": "일자별 1 TiB당 치아 파밍 보상 | XCHscan",
+    "metaDescription": "일자별 1TiB당 치아 파밍 보상을 보여줍니다. 모든 데이터는 실시간이며, 치아블록체인을 통해 직접 수집됩니다.",
+    "heading": "일자별 1 TiB당 치아 파밍 보상",
+    "description": "일자별 1TiB당 치아 파밍 보상을 보여줍니다.",
+    "yLabel": "치아(XCH) 수량"
   },
   "tibHrXch": {
-    "metaTitle": "Space Needed TiB To Farm Chia (XCH) Chart | XCHscan",
-    "metaDescription": "The Chia Network (XCH) Daily TiB Hour per XCH Chart shows the expected number of hours to farm 1 XCH with 1 TiB. All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
-    "heading": "Daily TiB Hour per XCH Chart",
-    "description": "The Daily TiB Hour per XCH Chart shows the expected number of hours to farm 1 XCH with 1 TiB.",
-    "yLabel": "Hours"
+    "metaTitle": "한 개의 치아(XCH)를 파밍하기 위해 필요한 TiB 추정 차트 | XCHscan",
+    "metaDescription": "1XCH를 파밍하기 위해 1TiB로 필요한 시간을 보여주는 차트입니다. 모든 데이터는 실시간이며, 치아블록체인을 통해 직접 수집됩니다.",
+    "heading": "일자별 치아 1개 파밍에 필요한 TiB의 필요 시간",
+    "description": "1XCH를 파밍하기 위해 1TiB로 필요한 시간을 보여주는 차트입니다.",
+    "yLabel": "시간"
   }
 }

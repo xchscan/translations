@@ -1,6 +1,6 @@
 {
-  "metaTitle": "Chia (XCH) Address {{address}} | XCHscan",
-  "metaDescription": "Chia (XCH) Address {{address}} page allows users to view transactions, balances, token holdings and transfers.",
+  "metaTitle": "치아(XCH) 지갑주소 {{address}} | XCHscan",
+  "metaDescription": "치아 지갑주소 {{address}} 페이지는 트랜잭션, 잔고, 전송 내역 등에 대한 정보를 제공합니다.",
   "heading": "주소 <0>{{address}}</0>",
   "overview": "개요",
   "moreInfo": "정보 더 보기",
