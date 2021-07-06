@@ -1,0 +1,13 @@
+{
+  "heading": ["耕种池", "Chia池上市信息"],
+  "submitPool": "提交Chia池",
+  "table": {
+    "heading": "Chia耕种池一览表",
+    "pool": "池",
+    "verified": "已验证",
+    "fees": "池子费用",
+    "networkSpace": "网络空间",
+    "blockHeight": "区块高度",
+    "lastReward": "最后收到的奖励"
+  }
+}

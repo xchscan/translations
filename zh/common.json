@@ -1,0 +1,59 @@
+{
+  "header": {
+    "menu": {
+      "home": "主页",
+      "pools": "池子",
+      "pool": "XCHscan池",
+      "otherPools": "其他池子",
+      "farmingCalculator": "耕种计算器",
+      "blockchain": "区块链",
+      "viewBlocks": "查看区块",
+      "viewTxns": "查看Txns",
+      "topFarmers": "顶尖农场主",
+      "languages": "语言",
+      "charts": "图表和统计"
+    }
+  },
+  "search": {
+    "filters": {
+      "all": "所有筛选条件",
+      "txns": "Txns",
+      "blocks": "区块"
+    },
+    "placeholder": "按地址/Txn哈希/区块搜索",
+    "list": {
+      "address": "地址",
+      "txns": "Txns",
+      "blocks": "区块"
+    }
+  },
+  "footer": {
+    "description": "XCHscan是Chia网络领先的区块浏览和分析平台，也是一个区块链和智能交易新平台。",
+    "poweredBy": "技术支持",
+    "links": {
+      "pools": "池子",
+      "pool": "XCHscan池",
+      "otherPools": "其他池子",
+      "farmingCalculator": "耕种计算器",
+      "explore": "探索",
+      "blockExplorer": "区块资源管理器",
+      "latestBlocks": "最新区块",
+      "latestTxns": "最新交易记录",
+      "company": "公司",
+      "about": "关于",
+      "advertise": "广告",
+      "contact": "联系人",
+      "terms": "条款",
+      "charts": "图表和统计"
+    }
+  },
+  "sponsored": "赞助",
+  "pagination": {
+    "first": "第一",
+    "last": "最后"
+  },
+  "validation": {
+    "required": "{{field}}是必需的",
+    "invalid": "请提供一个有效的{{field}}"
+  }
+}
