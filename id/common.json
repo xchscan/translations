@@ -1,0 +1,64 @@
+{
+  "header": {
+    "menu": {
+      "home": "Beranda",
+      "pools": "Pools",
+      "pool": "Pool XCHscan",
+      "otherPools": "Pools Lainnya",
+      "farmingCalculator": "Kalkulator Farming",
+      "blockchain": "Blockchain",
+      "viewBlocks": "Lihat Blok",
+      "viewTxns": "Lihat Txns",
+      "topFarmers": "Top farmers",
+      "languages": "Bahasa",
+      "charts": "Grafik & Statistik",
+      "topAccounts": "Top Accounts"
+    }
+  },
+  "search": {
+    "filters": {
+      "all": "Semua Filter",
+      "txns": "Txns",
+      "blocks": "Blok"
+    },
+    "placeholder": "Cari berdasarkan alamat / Txn Hash / Blok",
+    "list": {
+      "address": "Alamat",
+      "txns": "Txns",
+      "blocks": "Blok"
+    }
+  },
+  "footer": {
+    "description": "XCHscan adalah Blok Explorer dan Platform Analitik untuk Jaringan Chia Network, sebuah blockchain baru dan platform pintar untuk transaksi.",
+    "poweredBy": "Didukung oleh",
+    "links": {
+      "pools": "Pools",
+      "pool": "XCHscan Pool",
+      "otherPools": "Pools lain",
+      "farmingCalculator": "Kalkulator Farming",
+      "explore": "Explore",
+      "blockExplorer": "Blok Explorer",
+      "latestBlocks": "Blok Terbaru",
+      "latestTxns": "Transaksi Terbaru",
+      "company": "Perusahaan",
+      "about": "Tentang",
+      "advertise": "Mengiklankan",
+      "contact": "Kontak",
+      "terms": "Syarat",
+      "charts": "Grafik & Statistik",
+      "api": "APIs"
+    }
+  },
+  "sponsored": "Sponsor",
+  "pagination": {
+    "first": "Pertama",
+    "last": "Terakhir"
+  },
+  "validation": {
+    "required": "{{field}} wajib disi",
+    "invalid": "Harap berikan yang valid {{field}}"
+  },
+  "chart": {
+    "source": "Sumber: XCHscan.com"
+  }
+}

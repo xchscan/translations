@@ -18,7 +18,7 @@
   "error": "Error!",
   "noBlocks": "No blocks!",
   "noTxns": "No transactions!",
-  "blockMiner": "Miner",
+  "blockMiner": "Farmer",
   "txnFrom": "From",
   "txnTo": "To"
 }

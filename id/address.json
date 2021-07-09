@@ -1,0 +1,13 @@
+{
+  "metaTitle": "Chia (XCH) Alamat {{address}} | XCHscan",
+  "metaDescription": "Chia (XCH) Alamat {{address}} halaman ini memungkinkan pengguna untuk melihat transaksi, saldo, token yang disimpan dan transfer.",
+  "heading": "Alamat <0>{{address}}</0>",
+  "overview": "Gambaran",
+  "moreInfo": "Info lebih lanjut",
+  "balance": "Saldo:",
+  "balanceTooltip": "XCHscan mungkin menunjukan pendapatan yang berbeda di akun dompet Chia Anda dan <0>keduanya benar.</0><1></1> Ketika Anda mengirim coin, mungkin coin tersebut terkirim ke alamat yang berbeda. Dompet mengetahui semua alamat Anda dan XCHscan tidak. Anda saat ini sedang melihat satu alamat tertentu.",
+  "value": "Nilai XCH:",
+  "tokens": "Token:",
+  "nameTag": "Label Nama Saya:",
+  "txns": "Transaksi"
+}

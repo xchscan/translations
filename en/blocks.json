@@ -9,7 +9,7 @@
   "typeTxBlock": "TX Block",
   "age": "Age",
   "txn": "Txn",
-  "miner": "Miner",
+  "miner": "Farmer",
   "weight": "Weight",
   "reward": "Chia Rewards",
   "volume": "Transaction Volume",
