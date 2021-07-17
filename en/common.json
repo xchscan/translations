@@ -4,12 +4,12 @@
       "home": "Home",
       "pools": "Pools",
       "pool": "XCHscan Pool",
-      "otherPools": "All Pools",
+      "otherPools": "Chia Pools",
       "farmingCalculator": "Farming Calculator",
       "blockchain": "Blockchain",
       "viewBlocks": "View Blocks",
       "viewTxns": "View Txns",
-      "topFarmers": "Top farmers",
+      "topFarmers": "Top Farmers",
       "languages": "Languages",
       "charts": "Charts & Stats",
       "topAccounts": "Top Accounts"
@@ -34,7 +34,7 @@
     "links": {
       "pools": "Pools",
       "pool": "XCHscan Pool",
-      "otherPools": "Other Pools",
+      "otherPools": "Chia Pools",
       "farmingCalculator": "Farming Calculator",
       "explore": "Explore",
       "blockExplorer": "Block Explorer",
