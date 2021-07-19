@@ -7,7 +7,18 @@
     "metaDescription": "The Chia Daily Price (USD) chart shows the daily historical price for Chia in USD. All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
     "heading": "Chia Daily Price (USD) Chart",
     "description": "The Chia Daily Price (USD) chart shows the daily historical price for Chia in USD.",
-    "yLabel": "Chia Price (USD)"
+    "yLabel": "Chia Price (USD)",
+    "statistics": {
+      "heading": "Chia Price Statistics",
+      "price": "Chia Price (USD)",
+      "marketCap": "Market Cap",
+      "volume": "Trading Volume",
+      "volumeMarketCap": "Volume / Market Cap",
+      "high24": "24h High",
+      "low24": "24h Low",
+      "highAll": "All-Time High",
+      "lowAll": "All-Time Low"
+    }
   },
   "supply": {
     "metaTitle": "Chia (XCH) Total Supply and Market Capitalization Chart | XCHscan",

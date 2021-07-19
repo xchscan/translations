@@ -7,7 +7,18 @@
     "metaDescription": "치아코인의 역사적 가격을 달러 단위로 보여줍니다. 모든 데이터는 실시간이며, 치아블록체인을 통해 직접 수집됩니다.",
     "heading": "치아 코인의 날짜별 가격(USD) 차트",
     "description": "치아 코인의 날짜별 가격(USD) 차트는 치아 코인 가격의 매일 가격을 USD단위로 보여줍니다.",
-    "yLabel": "치아코인 가격 (USD)"
+    "yLabel": "치아코인 가격 (USD)",
+    "statistics": {
+      "heading": "Chia Price Statistics",
+      "price": "Chia Price (USD)",
+      "marketCap": "Market Cap",
+      "volume": "Trading Volume",
+      "volumeMarketCap": "Volume / Market Cap",
+      "high24": "24h High",
+      "low24": "24h Low",
+      "highAll": "All-Time High",
+      "lowAll": "All-Time Low"
+    }
   },
   "supply": {
     "metaTitle": "치아(XCH)의 총 공급량과 시가총액 | XCHscan",

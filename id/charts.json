@@ -7,7 +7,18 @@
     "metaDescription": "Grafik Harga Chia menunjukan harga historis harian untuk Chia dalam USD. Semua data real time, akurat dan ditarik langsung dari blockhain Chia (XCH).",
     "heading": "Grafik Harga Harian Chia (USD)",
     "description": "Grafik harga harian Chia menunjukan harga historis harian untuk Chia dalam USD.",
-    "yLabel": "Harga Chia(USD)"
+    "yLabel": "Harga Chia(USD)",
+    "statistics": {
+      "heading": "Chia Price Statistics",
+      "price": "Chia Price (USD)",
+      "marketCap": "Market Cap",
+      "volume": "Trading Volume",
+      "volumeMarketCap": "Volume / Market Cap",
+      "high24": "24h High",
+      "low24": "24h Low",
+      "highAll": "All-Time High",
+      "lowAll": "All-Time Low"
+    }
   },
   "supply": {
     "metaTitle": "Total Pasokan dan Grafik Kapitalisasi Pasar  | XCHscan",

@@ -8,6 +8,6 @@
   "balanceTooltip": "XCHscan may show a different net result to your Chia wallet and <0>both are correct.</0><1></1> When you send coins, change may go to a different address. The wallet is aware of all your addresses and XCHscan is not. You are currently looking at one specific address.",
   "value": "XCH value:",
   "tokens": "Tokens:",
-  "nameTag": "My Name Tag:",
+  "nameTag": "Name Tag:",
   "txns": "Transactions"
 }
