@@ -4,10 +4,10 @@
   "heading": "Submit a Chia Pool",
   "form": {
     "heading": "Get your pool listed on XCHscan",
-    "content": "The pooling protocol will go live on June 1st 2021. Send us a message and we'll make sure your pool is listed immediately.",
+    "content": "Fill out the details below to be published on our site. Your pool API URL needs to return the expected json format we've outlined below. API results which do not match our format will not be included automatically and will require a manual review.",
     "name": {
-      "label": "Name",
-      "placeholder": "Name"
+      "label": "Pool Name",
+      "placeholder": "Pool Name"
     },
     "website": {
       "label": "Website",
