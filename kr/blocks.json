@@ -20,7 +20,10 @@
     "height": "블록 높이",
     "hash": "해더 해쉬",
     "timestamp": "타임스탬프",
-    "transactions": ["전송", "{{txns}} 전송 그리고 {{rewards}} 보상"],
+    "transactions": [
+      "전송",
+      "{{txns}} 전송 그리고 {{rewards}} 보상"
+    ],
     "farmer": "파머",
     "pool": "풀",
     "poolReward": "풀 보상",

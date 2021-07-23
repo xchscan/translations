@@ -55,5 +55,8 @@
   "validation": {
     "required": "{{field}}是必需的",
     "invalid": "请提供一个有效的{{field}}"
+  },
+  "chart": {
+    "source": "来源: xchscan.com"
   }
 }

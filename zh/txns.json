@@ -1,4 +1,6 @@
 {
+  "metaTitle": "所有 Chia (XCH) 交易 | XCHscan",
+  "metaDescription": "在 Chia 区块链上确认的所有 Chia (XCH) 交易。该列表由发送 Chia (XCH) 的交易和每笔交易的交易详情组成",
   "heading": "交易",
   "listing": "找到超过>{count}个交易",
   "hash": "Txn哈希",
@@ -23,6 +25,8 @@
     "to": "接收方:"
   },
   "txn": {
+    "metaTitle": "Chia (XCH) 交易 {{txn}} | XCHscan",
+    "metaDescription": "Chia (XCH) 区块链交易详细信息 {{txn}}.",
     "heading": "交易明细",
     "hash": {
       "text": ["Txn哈希"],

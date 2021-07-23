@@ -1,4 +1,6 @@
 {
+  "metaTitle": "所有 Chia (XCH) 最新区块 | XCHscan",
+  "metaDescription": "Chia 区块链中包含的所有 Chia (XCH) 块。显示时间戳、农民、区块奖励、难度和包含的交易。",
   "heading": "区块",
   "listing": "区块#{{from}}到#{{to}} (区块数{{count}})",
   "blocks": "区块",

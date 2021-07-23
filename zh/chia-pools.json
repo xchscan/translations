@@ -1,4 +1,6 @@
 {
+  "metaTitle": "Chia (XCH) 顶级养殖池 | XCHscan",
+  "metaDescription": "最佳 Chia (XCH) 养殖池的完整列表. 此列表中的所有池都经过验证. 比较矿池费用、网络空间、区块高度和最后收到的奖励. ",
   "heading": ["耕种池", "Chia池上市信息"],
   "submitPool": "提交Chia池",
   "table": {
@@ -10,5 +12,5 @@
     "blockHeight": "区块高度",
     "lastReward": "最后收到的奖励"
   },
-  "notice": "The pool stats we show are based on API data provided by the pool operators and should be taken with caution."
+  "notice": "我们显示的矿池统计数据基于矿池运营商提供的 API 数据，应谨慎对待."
 }

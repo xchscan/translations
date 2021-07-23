@@ -13,7 +13,15 @@
     "lastReward": "가장 최근 보상",
     "history": "7 Day History",
     "minPay": "Min Pay",
-    "farmers": "Farmers"
+    "farmers": "Farmers",
+    "status": "Status",
+    "uptime": "Uptime (24H)",
+    "address": "Pool address",
+    "statusWarning": "Missing Data in API",
+    "uptimeWarning": "For this pool, {{success}} of the last {{all}} checks were successful",
+    "netspaceWarning": "Netspace cannot be verified, missing pool address",
+    "netspaceError": "Pool netspace is calculted, but seems to be lower than the API netspace",
+    "netspaceSuccess": "Pool netspace is calculted and verified"
   },
   "notice": "The pool stats we show are based on API data provided by the pool operators and should be taken with caution."
 }
