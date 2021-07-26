@@ -9,5 +9,17 @@
   "value": "XCH value:",
   "tokens": "Tokens:",
   "nameTag": "Name Tag:",
-  "txns": "Transactions"
+  "txns": "Transactions",
+  "farmerStatus": "Farmer Status",
+  "rank": "Rank",
+  "rankInfo": "Based on farmer rewards over the last 10,000 blocks",
+  "won10k": "Blocks Won (Last 10K)",
+  "won10kInfo": "Blocks won by this address in the last 10,000 blocks",
+  "won24h": "Blocks won (~24H)",
+  "won24hInfo": "Blocks won by this address in the last 4,608 blocks",
+  "summary": "Summary",
+  "summaryInfo": "Based on farmer rewards over the last 10,000 blocks",
+  "summaryWon": "Won {{percentage}}% of the last 10,000 blocks",
+  "summaryNone": "No blocks won recently",
+  "none": "None"
 }

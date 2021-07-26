@@ -11,7 +11,8 @@
       "viewTxns": "查看Txns",
       "topFarmers": "顶尖农场主",
       "languages": "语言",
-      "charts": "图表和统计"
+      "charts": "图表和统计",
+      "topAccounts": "Top Accounts"
     }
   },
   "search": {
@@ -44,7 +45,8 @@
       "advertise": "广告",
       "contact": "联系人",
       "terms": "条款",
-      "charts": "图表和统计"
+      "charts": "图表和统计",
+      "api": "APIs"
     }
   },
   "sponsored": "赞助",
