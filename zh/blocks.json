@@ -29,6 +29,11 @@
     "poolReward": "池子奖励",
     "farmerReward": "耕种奖励",
     "fees": "费用",
-    "price": "XCH 价格"
+    "price": "XCH 价格",
+    "farmerHash": "Farmer Puzzlehash",
+    "poolHash": "Pool Puzzlehash",
+    "foliage": "Foliage",
+    "rewardChain": "Reward Chain Block",
+    "proof": "Proof"
   }
 }
