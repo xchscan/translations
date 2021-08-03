@@ -22,7 +22,7 @@
     "timestamp": "Timestamp",
     "transactions": [
       "Transactions",
-      "{{txns}} transactions and {{rewards}} rewards"
+      "<0>{{txns}} transactions</0> and {{rewards}} rewards"
     ],
     "farmer": "Farmer",
     "pool": "Pool",

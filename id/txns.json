@@ -63,6 +63,9 @@
     "type": {
       "text": ["Tipe", "Transaksi", "Hadiah Pool", "Hadiah Farmer"],
       "tooltip": "Tipe transaksi."
-    }
+    },
+    "parentCoin": "Parent Coin",
+    "childCoins": "Child Coins",
+    "siblingCoins": "Sibling Coins"
   }
 }

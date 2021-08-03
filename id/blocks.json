@@ -22,7 +22,7 @@
     "timestamp": "Stempel Waktu",
     "transactions": [
       "Transaksi",
-      "{{txns}} transaksi dan {{rewards}} hadiah"
+      "<0>{{txns}} transaksi dan</0> {{rewards}} hadiah"
     ],
     "farmer": "Farmer",
     "pool": "Pool",

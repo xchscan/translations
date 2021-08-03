@@ -22,7 +22,7 @@
     "timestamp": "타임스탬프",
     "transactions": [
       "전송",
-      "{{txns}} 전송 그리고 {{rewards}} 보상"
+      "<0>{{txns}} 전송 그리고</0> {{rewards}} 보상"
     ],
     "farmer": "파머",
     "pool": "풀",

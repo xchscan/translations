@@ -22,7 +22,7 @@
     "timestamp": "时间戳",
     "transactions": [
       "交易",
-      "{{txns}} 交易和 {{rewards}} 奖励"
+      "<0>{{txns}} 交易和</0> {{rewards}} 奖励"
     ],
     "farmer": "耕种",
     "pool": "池",

@@ -63,6 +63,9 @@
     "type": {
       "text": ["Type", "Transaction", "Pool Reward", "Farmer Reward"],
       "tooltip": "Type of transaction."
-    }
+    },
+    "parentCoin": "Parent Coin",
+    "childCoins": "Child Coins",
+    "siblingCoins": "Sibling Coins"
   }
 }
