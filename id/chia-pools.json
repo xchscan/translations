@@ -1,8 +1,8 @@
 {
   "metaTitle": "Chia (XCH) Kolam Pertanian Teratas | XCHscan",
   "metaDescription": "Daftar Lengkap Farming Pool Terbaik Chia (XCH).Semua pool dalam daftar ini sudah diverifikasi. Bandingkan biaya pool, ruang jaringan, ketinggian blok dan hadiah terakhir yang diterima.",
-  "heading": ["Farming Pool", "Informasi Daftar Chia Pool"],
-  "submitPool": "Kirim Chia Pool",
+  "heading": ["Farming Pool", "Informasi Daftar Community Chia Pool"],
+  "submitPool": "Kirim Community Chia Pool",
   "table": {
     "heading": "Daftar Chia Farming Pool",
     "pool": "Pool",

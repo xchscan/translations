@@ -1,8 +1,8 @@
 {
-  "metaTitle": "Chia (XCH) Top Farming Pools | XCHscan",
-  "metaDescription": "Complete list of the best Chia (XCH) farming pools. All the pools on this list are verified. Compare pool fees, network space, block heights and last reward received.",
-  "heading": ["Farming Pools", "Chia Pools Listing Information"],
-  "submitPool": "Submit a Chia Pool",
+  "metaTitle": "Top Community Chia Farming Pools | XCHscan",
+  "metaDescription": "Complete list of the best Community Chia farming pools. All the pools on this list are verified. Compare pool fees, network space, block heights and last reward received.",
+  "heading": ["Farming Pools", "Community Chia Pools Listing Information"],
+  "submitPool": "Submit a Community Chia Pool",
   "table": {
     "heading": "List of Chia Farming Pools",
     "pool": "Pool",

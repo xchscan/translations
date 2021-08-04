@@ -4,7 +4,7 @@
       "home": "Home",
       "pools": "Pools",
       "pool": "XCHscan Pool",
-      "otherPools": "Chia Pools",
+      "otherPools": "List of Chia Pools",
       "farmingCalculator": "Farming Calculator",
       "blockchain": "Blockchain",
       "viewBlocks": "View Blocks",
@@ -29,12 +29,12 @@
     }
   },
   "footer": {
-    "description": "XCHscan is a Block Explorer and Analytics Platform for Chia Network, a new blockchain and smart transaction platform.",
+    "description": "XCHscan is a Block Explorer and Analytics Platform for Chia blockchain, a new blockchain and smart transaction platform.",
     "poweredBy": "Powered by",
     "links": {
       "pools": "Pools",
       "pool": "XCHscan Pool",
-      "otherPools": "Chia Pools",
+      "otherPools": "List of Chia Pools",
       "farmingCalculator": "Farming Calculator",
       "explore": "Explore",
       "blockExplorer": "Block Explorer",
@@ -60,5 +60,6 @@
   },
   "chart": {
     "source": "Source: XCHscan.com"
-  }
+  },
+  "trademark": "XCHscan is operated full and on its own. Chia Network™ and the Chia Blockchain™ are trademarks or registered trademarks of Chia Network, Inc. in the United States and worldwide, a Delaware corporation. XCHscan is not associated to Chia Network, Inc. and every licensed trademark displayed on this website belongs to their respective owners."
 }

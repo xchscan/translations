@@ -1,12 +1,12 @@
 {
   "metaTitle": "Chia (XCH) Charts & Statistics | XCHscan",
-  "metaDescription": "XCHscan provides a suite of real-time Chia (XCH) data charts and statistics to track everything about the Chia (XCH) cryptocurrency : Price, Supply, Marketcap, Netspace and others.",
+  "metaDescription": "XCHscan provides a suite of real-time Chia (XCH) data charts and statistics to track everything about Chia (XCH) cryptocurrency : Price, Supply, Marketcap, Netspace and others.",
   "heading": "Chia Charts & Statistics",
   "chiaPrice": {
     "metaTitle": "Chia (XCH) Price Today : Info, Chart, Stats | XCHscan",
-    "metaDescription": "The Chia Daily Price (USD) chart shows the daily historical price for Chia in USD. All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
+    "metaDescription": "Chia Daily Price (USD) chart shows the daily historical price for Chia in USD. All data is real-time, accurate and pulled directly from Chia (XCH) blockchain.",
     "heading": "Chia Daily Price (USD) Chart",
-    "description": "The Chia Daily Price (USD) chart shows the daily historical price for Chia in USD.",
+    "description": "Chia Daily Price (USD) chart shows the daily historical price for Chia in USD.",
     "yLabel": "Chia Price (USD)",
     "statistics": {
       "heading": "Chia Price Statistics",
@@ -22,9 +22,9 @@
   },
   "supply": {
     "metaTitle": "Chia (XCH) Total Supply and Market Capitalization Chart | XCHscan",
-    "metaDescription": "The table and pie chart shows the distribution of Chia from reward of both block and uncle block mining to arrive at the current total Chia supply. The Chia (XCH) price in USD is also shown in the table below. With both the total supply of Chia and the current price in USD, we can arrive at the market capitalization as shown in the pie chart.",
+    "metaDescription": "The table and pie chart shows the distribution of Chia from reward of both block and uncle block mining to arrive at the current total Chia supply. Chia (XCH) price in USD is also shown in the table below. With both the total supply of Chia and the current price in USD, we can arrive at the market capitalization as shown in the pie chart.",
     "heading": "Chia Total Supply and Market Capitalization Chart",
-    "description": "The table and pie chart shows the distribution of Chia from reward of both block and uncle block mining to arrive at the current total Chia supply. The Chia (XCH) price in USD is also shown in the table below. With both the total supply of Chia and the current price in USD, we can arrive at the market capitalization as shown in the pie chart.",
+    "description": "The table and pie chart shows the distribution of Chia from reward of both block and uncle block mining to arrive at the current total Chia supply. Chia (XCH) price in USD is also shown in the table below. With both the total supply of Chia and the current price in USD, we can arrive at the market capitalization as shown in the pie chart.",
     "totalSupply": "Total Chia Supply",
     "marketCap": "Market Capitalization",
     "distribution": {
@@ -42,84 +42,84 @@
   },
   "marketCap": {
     "metaTitle": "Chia (XCH) Market Capitalization Chart | XCHscan",
-    "metaDescription": "The Chia (XCH) Market Capitalization chart shows the historical breakdown of Chia (XCH) daily market capitalization and price. All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
+    "metaDescription": "Chia (XCH) Market Capitalization chart shows the historical breakdown of Chia (XCH) daily market capitalization and price. All data is real-time, accurate and pulled directly from Chia (XCH) blockchain.",
     "heading": "Chia Market Capitalization Chart",
-    "description": "The Chia Market Capitalization chart shows the historical breakdown of Chia daily market capitalization and price.",
+    "description": "Chia Market Capitalization chart shows the historical breakdown of Chia daily market capitalization and price.",
     "yLabel": "Chia Market Cap (USD)"
   },
   "netspace": {
     "metaTitle": "Chia (XCH) Netspace Chart : History, Evolution, Growth | XCHscan",
-    "metaDescription": "The Chia Network (XCH) Network Space Chart or Netspace Chart shows the historical measure of the space allocated to Chia network (XCH). All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
-    "heading": "Chia Network Space Chart",
-    "description": "The Chia Network Space Chart shows the historical measure of the space allocated to Chia network.",
+    "metaDescription": "Chia blockchain (XCH) Network Space Chart or Netspace Chart shows the historical measure of the space allocated to Chia blockchain (XCH). All data is real-time, accurate and pulled directly from Chia (XCH) blockchain.",
+    "heading": "Chia blockchain Space Chart",
+    "description": "Chia blockchain Space Chart shows the historical measure of the space allocated to Chia blockchain.",
     "yLabel": "Network Space"
   },
   "chiaSupply": {
     "metaTitle": "Chia (XCH) Supply Chart : Circulating, Total, Pre-farmed | XCHscan",
-    "metaDescription": "The Chia Network (XCH) Supply Growth Chart shows a breakdown of daily block reward and the total Chia (XCH) supply. All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
+    "metaDescription": "Chia blockchain (XCH) Supply Growth Chart shows a breakdown of daily block reward and the total Chia (XCH) supply. All data is real-time, accurate and pulled directly from Chia (XCH) blockchain.",
     "heading": "Chia Supply Growth Chart",
-    "description": "The Chia Supply Growth Chart shows a breakdown of daily block reward and the total Chia supply.",
+    "description": "Chia Supply Growth Chart shows a breakdown of daily block reward and the total Chia supply.",
     "yLabel": "Chia Supply"
   },
   "txns": {
     "metaTitle": "Chia (XCH) Transactions Chart : Info, Statistics, Growth | XCHscan",
-    "metaDescription": "The Chia (XCH) transactions chart highlights the total number of transactions on the Chia Network blockchain with daily individual breakdown for estimated net space, average block weight, total blocks and total new address seen.",
+    "metaDescription": "Chia (XCH) transactions chart highlights the total number of transactions on Chia blockchain blockchain with daily individual breakdown for estimated net space, average block weight, total blocks and total new address seen.",
     "heading": "Chia Daily Transactions Chart",
-    "description": "The chart highlights the total number of transactions on the Chia blockchain with daily individual breakdown for estimated net space, average block weight, total blocks and total new address seen.",
+    "description": "The chart highlights the total number of transactions on Chia blockchain with daily individual breakdown for estimated net space, average block weight, total blocks and total new address seen.",
     "yLabel": "Transactions per Day"
   },
   "blockRewards": {
     "metaTitle": "Chia (XCH) Block Rewards Chart : Info, Stats, Evolution | XCHscan",
-    "metaDescription": "The Chia Network (XCH) Daily Block Rewards Chart shows the total Chia supplied to the Chia network. All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
+    "metaDescription": "Chia blockchain (XCH) Daily Block Rewards Chart shows the total Chia supplied to Chia blockchain. All data is real-time, accurate and pulled directly from Chia (XCH) blockchain.",
     "heading": "Chia Daily Block Rewards Chart",
-    "description": "The Chia Daily Block Rewards Chart shows the total Chia supplied to the Chia network.",
+    "description": "Chia Daily Block Rewards Chart shows the total Chia supplied to Chia blockchain.",
     "yLabel": "New Chia supply per Day"
   },
   "blocks": {
     "metaTitle": "Chia (XCH) Block Count and Rewards Chart | XCHscan",
-    "metaDescription": "The Chia Network (XCH) Block Count and Rewards Chart shows the historical number of blocks produced daily on the Chia network and the total block reward. All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
+    "metaDescription": "Chia blockchain (XCH) Block Count and Rewards Chart shows the historical number of blocks produced daily on Chia blockchain and the total block reward. All data is real-time, accurate and pulled directly from Chia (XCH) blockchain.",
     "heading": "Chia Block Count and Rewards Chart",
-    "description": "The Chia Block Count and Rewards Chart shows the historical number of blocks produced daily on the Chia network and the total block reward.",
+    "description": "Chia Block Count and Rewards Chart shows the historical number of blocks produced daily on Chia blockchain and the total block reward.",
     "yLabel": "Blocks per Day"
   },
   "addresses": {
     "metaTitle": "Chia (XCH) Unique Addresses Chart : Info, Stats, Growth | XCHscan",
-    "metaDescription": "The Chia Network (XCH) unique addresses chart shows the total distinct numbers of address on the Chia blockchain and the increase in the number of address daily.",
+    "metaDescription": "Chia blockchain (XCH) unique addresses chart shows the total distinct numbers of address on Chia blockchain and the increase in the number of address daily.",
     "heading": "Chia Unique Addresses Chart",
-    "description": "The chart shows the total distinct numbers of address on the Chia blockchain and the increase in the number of address daily.",
+    "description": "The chart shows the total distinct numbers of address on Chia blockchain and the increase in the number of address daily.",
     "yLabel": "Chia Cumulative Addresses Growth"
   },
   "activeAddresses": {
     "metaTitle": "Chia (XCH) Active Addresses Chart : Info, Stats, Activity | XCHscan",
-    "metaDescription": "The Chia Network (XCH) Active Address chart shows the daily number of unique addresses that were active on the network as a sender or receiver. All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
+    "metaDescription": "Chia blockchain (XCH) Active Address chart shows the daily number of unique addresses that were active on the network as a sender or receiver. All data is real-time, accurate and pulled directly from Chia (XCH) blockchain.",
     "heading": "Active Chia Addresses Chart",
     "description": "The Active Chia Address chart shows the daily number of unique addresses that were active on the network as a sender or receiver.",
     "yLabel": "Active Chia Addresses"
   },
   "txnFee": {
     "metaTitle": "Chia (XCH) Transaction Fee History : Average Transaction Fee | XCHscan",
-    "metaDescription": "The Chia Network (XCH) transaction fee chart shows the daily average amount in USD spent per transaction on the Chia network (XCH). All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
+    "metaDescription": "Chia blockchain (XCH) transaction fee chart shows the daily average amount in USD spent per transaction on Chia blockchain (XCH). All data is real-time, accurate and pulled directly from Chia (XCH) blockchain.",
     "heading": "Average Transaction Fee Chart",
-    "description": "The chart shows the daily average amount in USD spent per transaction on the Chia network.",
+    "description": "The chart shows the daily average amount in USD spent per transaction on Chia blockchain.",
     "yLabel": "Average Transaction Fee (USD)"
   },
   "txnVolume": {
     "metaTitle": "Chia (XCH) Transaction Volume Chart : Average Transaction Volume | XCHscan",
-    "metaDescription": "The Chia Network (XCH) average transaction volume chart shows the daily average amount in USD spent per transaction on the Chia network including farming rewards.",
+    "metaDescription": "Chia blockchain (XCH) average transaction volume chart shows the daily average amount in USD spent per transaction on Chia blockchain including farming rewards.",
     "heading": "Average Transaction Volume Chart",
-    "description": "The chart shows the daily average amount in USD spent per transaction on the Chia network including farming rewards.",
+    "description": "The chart shows the daily average amount in USD spent per transaction on Chia blockchain including farming rewards.",
     "yLabel": "Average Transaction Volume (USD)"
   },
   "xchTib": {
     "metaTitle": "Daily Chia (XCH) Farming Reward per TiB Chart | XCHscan",
-    "metaDescription": "The Chia Network (XCH) Daily XCH per TiB Chart shows the expected daily farmed XCH per TiB. All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
+    "metaDescription": "Chia blockchain (XCH) Daily XCH per TiB Chart shows the expected daily farmed XCH per TiB. All data is real-time, accurate and pulled directly from Chia (XCH) blockchain.",
     "heading": "Daily XCH per TiB Chart",
     "description": "The Daily XCH per TiB Chart shows the expected daily farmed XCH per TiB.",
     "yLabel": "Chia Amount"
   },
   "tibHrXch": {
     "metaTitle": "Space Needed TiB To Farm Chia (XCH) Chart | XCHscan",
-    "metaDescription": "The Chia Network (XCH) Daily TiB Hour per XCH Chart shows the expected number of hours to farm 1 XCH with 1 TiB. All data is real-time, accurate and pulled directly from the Chia (XCH) blockchain.",
+    "metaDescription": "Chia blockchain (XCH) Daily TiB Hour per XCH Chart shows the expected number of hours to farm 1 XCH with 1 TiB. All data is real-time, accurate and pulled directly from Chia (XCH) blockchain.",
     "heading": "Daily TiB Hour per XCH Chart",
     "description": "The Daily TiB Hour per XCH Chart shows the expected number of hours to farm 1 XCH with 1 TiB.",
     "yLabel": "Hours"

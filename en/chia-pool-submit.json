@@ -1,7 +1,7 @@
 {
   "metaTitle": "Submit & Advertise your Chia (XCH) Farming Pool | XCHscan",
   "metaDescription": "Submit your Chia (XCH) farming pool to xchscan.com to feature on our pool listing page. You will need to comply to our API structure.",
-  "heading": "Submit a Chia Pool",
+  "heading": "Submit a Community Chia Pool",
   "form": {
     "heading": "Get your pool listed on XCHscan",
     "content": "Fill out the details below to be published on our site. Your pool API URL needs to return the expected json format we've outlined below. API results which do not match our format will not be included automatically and will require a manual review.",

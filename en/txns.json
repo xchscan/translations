@@ -1,6 +1,6 @@
 {
   "metaTitle": "All Chia (XCH) Latest Transactions | XCHscan",
-  "metaDescription": "All Chia (XCH) Transactions confirmed on the Chia Blockchain. The list consists of transactions from sending Chia (XCH) and the transactions details for each transaction.",
+  "metaDescription": "All Chia (XCH) Transactions confirmed on Chia Blockchain. The list consists of transactions from sending Chia (XCH) and the transactions details for each transaction.",
   "heading": "Transactions",
   "listing": "More than > {{count}} transactions found",
   "hash": "Txn Hash",

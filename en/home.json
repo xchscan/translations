@@ -1,7 +1,7 @@
 {
   "metaTitle": "Chia (XCH) Blockchain Explorer | XCHscan",
-  "metaDescription": "XCHscan is a Block Explorer and Analytics Platform for Chia Network (XCH), a new blockchain and smart transaction platform.",
-  "heroTitle": "The Chia Blockchain Explorer",
+  "metaDescription": "XCHscan is a Block Explorer and Analytics Platform for Chia blockchain (XCH), a new blockchain and smart transaction platform.",
+  "heroTitle": "Chia Blockchain Explorer",
   "chiaPrice": "Chia price",
   "xchFarmed": "XCH farmed",
   "difficulty": "Difficulty",
@@ -10,7 +10,7 @@
   "netspace": "Netspace",
   "transactionHistory": "Chia transaction history in {{days}} days",
   "banner": {
-    "title": "The Chia ecosystem starts here",
+    "title": "Chia ecosystem starts here",
     "description": "Do you have a Chia related product or service? Contact us and gain exposure view the number #1 Chia blockchain explorer for Chia."
   },
   "latestBlocks": "Latest Blocks",

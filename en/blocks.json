@@ -1,6 +1,6 @@
 {
   "metaTitle": "All Chia (XCH) Latest Blocks | XCHscan",
-  "metaDescription": "All Chia (XCH) Blocks that are included in the Chia blockchain. The timestamp, farmer, block reward, difficulty and included transactions are shown.",
+  "metaDescription": "All Chia (XCH) Blocks that are included in Chia blockchain. The timestamp, farmer, block reward, difficulty and included transactions are shown.",
   "heading": "Blocks",
   "listing": "Block #{{from}} to #{{to}} (Total of {{count}} blocks)",
   "blocks": "Block",
