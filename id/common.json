@@ -46,7 +46,11 @@
       "contact": "Kontak",
       "terms": "Syarat",
       "charts": "Grafik & Statistik",
-      "api": "APIs"
+      "api": "APIs",
+      "submitPool": "Submit a Pool",
+      "kb": "Knowledge Base",
+      "fundamentals": "Fundamentals",
+      "buySell": "Buy, Sell & Trade"
     }
   },
   "sponsored": "Sponsor",

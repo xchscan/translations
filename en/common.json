@@ -46,7 +46,11 @@
       "contact": "Contact",
       "terms": "Terms",
       "charts": "Charts & Stats",
-      "api": "APIs"
+      "api": "APIs",
+      "submitPool": "Submit a Pool",
+      "kb": "Knowledge Base",
+      "fundamentals": "Fundamentals",
+      "buySell": "Buy, Sell & Trade"
     }
   },
   "sponsored": "Sponsored",
