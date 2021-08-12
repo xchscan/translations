@@ -20,7 +20,7 @@
     "statusWarning": "Missing Data in API",
     "uptimeWarning": "For this pool, {{success}} of the last {{all}} checks were successful",
     "netspaceWarning": "Netspace cannot be verified, missing pool address",
-    "netspaceError": "Pool netspace is calculted, but seems to be lower than the API netspace",
+    "netspaceError": "The reported pool netspace by {{name}} is less then the calculated pool netspace based on the number of rewards over the past 7 days.",
     "netspaceSuccess": "Pool netspace is calculted and verified"
   },
   "notice": "我们显示的矿池统计数据基于矿池运营商提供的 API 数据，应谨慎对待."
