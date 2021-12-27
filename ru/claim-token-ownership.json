@@ -47,6 +47,7 @@
     },
     "button": "Submit",
     "successMessage": "Thank you, we will review your application and list it after its been approved",
-    "errorMessage": "Something went wrong!"
+    "errorMessage": "Something went wrong!",
+    "coinmarket": "CoinMarketCap"
   }
 }
