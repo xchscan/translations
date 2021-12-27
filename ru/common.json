@@ -12,7 +12,10 @@
       "topFarmers": "Лучшие майнеры",
       "languages": "Языки",
       "charts": "Графики и статистика",
-      "topAccounts": "Топ аккаунты"
+      "topAccounts": "Топ аккаунты",
+      "tokens": "Tokens",
+      "toptoken": "Top Tokens",
+      "viewTokenTrasfers": "View Token Transfers"
     }
   },
   "search": {
