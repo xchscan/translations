@@ -12,7 +12,10 @@
       "topFarmers": "Top Farmers",
       "languages": "Languages",
       "charts": "Charts & Stats",
-      "topAccounts": "Top Accounts"
+      "topAccounts": "Top Accounts",
+      "tokens": "Tokens",
+      "toptoken": "Top Tokens",
+      "viewTokenTrasfers": "View Token Transfers"
     }
   },
   "search": {

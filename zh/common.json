@@ -12,7 +12,10 @@
       "topFarmers": "顶尖农场主",
       "languages": "语言",
       "charts": "图表和统计",
-      "topAccounts": "Top Accounts"
+      "topAccounts": "Top Accounts",
+      "tokens": "Tokens",
+      "toptoken": "Top Tokens",
+      "viewTokenTrasfers": "View Token Transfers"
     }
   },
   "search": {
