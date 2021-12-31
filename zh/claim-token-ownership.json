@@ -45,6 +45,9 @@
       "label": "Deposit {{amount}} XCH to the following address to prove your ownership:",
       "tooltip": "The sending address must be identical to the address you wish to add information to."
     },
+    "logo": {
+      "label": "Logo Link"
+    },
     "button": "Submit",
     "successMessage": "Thank you, we will review your application and list it after its been approved",
     "errorMessage": "Something went wrong!",
