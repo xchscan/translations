@@ -41,6 +41,9 @@
     "marketcap": {
       "label": "CoinMarketCap"
     },
+    "logo": {
+      "label": "Logo Link"
+    },
     "info": {
       "label": "Deposit {{amount}} XCH to the following address to prove your ownership:",
       "tooltip": "The sending address must be identical to the address you wish to add information to."
