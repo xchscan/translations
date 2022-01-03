@@ -13,9 +13,9 @@
       "languages": "语言",
       "charts": "图表和统计",
       "topAccounts": "Top Accounts",
-      "tokens": "Tokens",
-      "toptoken": "Top Tokens",
-      "viewTokenTrasfers": "View Token Transfers"
+      "tokens": "代币",
+      "toptoken": "热门代币",
+      "viewTokenTrasfers": "查看代币转移"
     }
   },
   "search": {

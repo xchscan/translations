@@ -1,15 +1,15 @@
 {
-  "metaTitle": "Claim Token Ownership | XCHscan",
-  "metaDescription": "Claim your name, symbol and other information.",
-  "heading": "Claim Token Ownership",
+  "metaTitle": "Заявить право собственности на токен | XCHscan",
+  "metaDescription": "Заявите свое имя, символ и другую информацию.",
+  "heading": "Заявить право собственности на токен",
   "form": {
-    "heading": "Claim your token info",
-    "content": "Claim your Name and add other information related to your Chia Token by filling in the form below. For each edit request, we will ask for a {{amount}} XCH deposit to prove your ownership.",
+    "heading": "Получите информацию о вашем токене",
+    "content": "Заявите свое имя и добавьте другую информацию, связанную с вашим токеном Chia, заполнив форму ниже. Для каждого запроса на редактирование мы будем запрашивать депозит в размере {{amount}} XCH, чтобы подтвердить ваше право собственности.",
     "address": {
-      "label": "XCH Address"
+      "label": "Адрес XCH"
     },
     "label": {
-      "label": "Name"
+      "label": "Имя"
     },
     "symbol": {
       "label": "Symbol"
@@ -42,15 +42,15 @@
       "label": "CoinMarketCap"
     },
     "logo": {
-      "label": "Logo Link"
+      "label": "Ссылка на логотип"
     },
     "info": {
-      "label": "Deposit {{amount}} XCH to the following address to prove your ownership:",
-      "tooltip": "The sending address must be identical to the address you wish to add information to."
+      "label": "Чтобы подтвердить свое право собственности, внесите {{amount}} XCH на следующий адрес:",
+      "tooltip": "Адрес отправителя должен совпадать с адресом, на который вы хотите добавить информацию."
     },
-    "button": "Submit",
-    "successMessage": "Thank you, we will review your application and list it after its been approved",
-    "errorMessage": "Something went wrong!",
+    "button": "Представлять на рассмотрение",
+    "successMessage": "Спасибо, мы рассмотрим вашу заявку и разместим ее после одобрения",
+    "errorMessage": "Что-то пошло не так!",
     "coinmarket": "CoinMarketCap"
   }
 }

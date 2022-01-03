@@ -13,9 +13,9 @@
       "languages": "Языки",
       "charts": "Графики и статистика",
       "topAccounts": "Топ аккаунты",
-      "tokens": "Tokens",
-      "toptoken": "Top Tokens",
-      "viewTokenTrasfers": "View Token Transfers"
+      "tokens": "Жетоны",
+      "toptoken": "Лучшие токены",
+      "viewTokenTrasfers": "Просмотр переводов токенов"
     }
   },
   "search": {

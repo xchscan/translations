@@ -1,18 +1,18 @@
 {
-  "metaTitle": "Claim Token Ownership | XCHscan",
-  "metaDescription": "Claim your name, symbol and other information.",
-  "heading": "Claim Token Ownership",
+  "metaTitle": "Klaim Kepemilikan Token | XCHscan",
+  "metaDescription": "Klaim nama Anda, simbol dan informasi lainnya.",
+  "heading": "Klaim Kepemilikan Token",
   "form": {
-    "heading": "Claim your token info",
-    "content": "Claim your Name and add other information related to your Chia Token by filling in the form below. For each edit request, we will ask for a {{amount}} XCH deposit to prove your ownership.",
+    "heading": "Klaim info token Anda",
+    "content": "Klaim Nama Anda dan tambahkan informasi lain terkait Chia Token Anda dengan mengisi formulir di bawah ini. Untuk setiap permintaan edit, kami akan meminta setoran {{amount}} XCH untuk membuktikan kepemilikan Anda.",
     "address": {
-      "label": "XCH Address"
+      "label": "Alamat XCH"
     },
     "label": {
-      "label": "Name"
+      "label": "Nama"
     },
     "symbol": {
-      "label": "Symbol"
+      "label": "Simbol"
     },
     "tail": {
       "label": "TAIL"
@@ -42,15 +42,15 @@
       "label": "CoinMarketCap"
     },
     "logo": {
-      "label": "Logo Link"
+      "label": "Tautan Logo"
     },
     "info": {
-      "label": "Deposit {{amount}} XCH to the following address to prove your ownership:",
-      "tooltip": "The sending address must be identical to the address you wish to add information to."
+      "label": "Setor {{amount}} XCH ke alamat berikut untuk membuktikan kepemilikan Anda:",
+      "tooltip": "Alamat pengiriman harus sama dengan alamat yang ingin Anda tambahkan informasinya."
     },
-    "button": "Submit",
-    "successMessage": "Thank you, we will review your application and list it after its been approved",
-    "errorMessage": "Something went wrong!",
+    "button": "Kirim",
+    "successMessage": "Terima kasih, kami akan meninjau aplikasi Anda dan mencantumkannya setelah disetujui",
+    "errorMessage": "Ada yang salah!",
     "coinmarket": "CoinMarketCap"
   }
 }
