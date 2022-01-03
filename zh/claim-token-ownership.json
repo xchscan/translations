@@ -1,15 +1,15 @@
 {
-  "metaTitle": "Claim Token Ownership | XCHscan",
-  "metaDescription": "Claim your name, symbol and other information.",
-  "heading": "Claim Token Ownership",
+  "metaTitle": "声明代币所有权 | XCHscan",
+  "metaDescription": "声明您的姓名、符号和其他信息.",
+  "heading": "声明代币所有权",
   "form": {
-    "heading": "Claim your token info",
-    "content": "Claim your Name and add other information related to your Chia Token by filling in the form below. For each edit request, we will ask for a {{amount}} XCH deposit to prove your ownership.",
+    "heading": "索取您的令牌信息",
+    "content": "通过填写下面的表格，声明您的姓名并添加与您的 Chia 令牌相关的其他信息。对于每个编辑请求，我们将要求您提供 {{amount}} XCH 存款以证明您的所有权。",
     "address": {
-      "label": "XCH Address"
+      "label": "XCH 地址"
     },
     "label": {
-      "label": "Name"
+      "label": "名称"
     },
     "symbol": {
       "label": "Symbol"
@@ -42,15 +42,15 @@
       "label": "CoinMarketCap"
     },
     "info": {
-      "label": "Deposit {{amount}} XCH to the following address to prove your ownership:",
-      "tooltip": "The sending address must be identical to the address you wish to add information to."
+      "label": "将 {{amount}} XCH 存入以下地址以证明您的所有权：",
+      "tooltip": "发送地址必须与您希望添加信息的地址相同。"
     },
     "logo": {
-      "label": "Logo Link"
+      "label": "标志链接"
     },
-    "button": "Submit",
-    "successMessage": "Thank you, we will review your application and list it after its been approved",
-    "errorMessage": "Something went wrong!",
+    "button": "提交",
+    "successMessage": "谢谢，我们会审核您的申请并在批准后上架",
+    "errorMessage": "出问题了！",
     "coinmarket": "CoinMarketCap"
   }
 }

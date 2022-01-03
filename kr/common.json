@@ -12,7 +12,10 @@
       "topFarmers": "파머 순위",
       "languages": "언어",
       "charts": "차트 & 통계",
-      "topAccounts": "상위 지갑"
+      "topAccounts": "상위 지갑",
+      "tokens": "토큰",
+      "toptoken": "상위 토큰",
+      "viewTokenTrasfers": "Lihat 전송 토큰"
     }
   },
   "search": {
