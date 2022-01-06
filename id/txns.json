@@ -6,6 +6,7 @@
   "hash": "Txn Hash",
   "type": "Tipe",
   "typeTxn": "Transaksi",
+  "typeToken": "Transaksi token",
   "typePoolReward": "Hadiah Pool",
   "typeFarmerReward": "Hadiah Farmer",
   "age": "Usia",
@@ -66,6 +67,10 @@
     },
     "parentCoin": "Parent Coin",
     "childCoins": "Child Coins",
-    "siblingCoins": "Sibling Coins"
-  }
+    "siblingCoins": "Sibling Coins",
+    "unknownToken": "Tidak dikenal",
+    "claimToken": "Token klaim",
+    "token": "Token"    
+  },
+  "info": "Menampilkan {{count}} record terakhir saja" 
 }

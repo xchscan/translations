@@ -25,5 +25,7 @@
   "summaryWon": "Won {{percentage}}% of the last 10,000 blocks",
   "summaryNone": "No blocks won recently",
   "none": "None",
-  "comments": "Comments"
+  "comments": "Comments",
+  "latestRecords": "최근 25개의 토큰 전송 이벤트",
+  "viewAll": "모두보기"
 }

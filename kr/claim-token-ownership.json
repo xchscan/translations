@@ -44,6 +44,9 @@
     "logo": {
       "label": "로고 링크"
     },
+    "total_supply": {
+      "label": "총 공급"
+    },
     "info": {
       "label": "소유권을 증명하기 위해 다음 주소에 {{amount}} XCH를 입금하십시오.",
       "tooltip": "보내는 주소는 정보를 추가하려는 주소와 동일해야 합니다."

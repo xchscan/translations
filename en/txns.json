@@ -8,6 +8,7 @@
   "typeTxn": "Transaction",
   "typePoolReward": "Pool Reward",
   "typeFarmerReward": "Farmer Reward",
+  "typeToken": "Token transaction",
   "age": "Age",
   "ageDT": "Date Time (UTC)",
   "confirmed": "Confirmed Block",
@@ -66,6 +67,10 @@
     },
     "parentCoin": "Parent Coin",
     "childCoins": "Child Coins",
-    "siblingCoins": "Sibling Coins"
-  }
+    "siblingCoins": "Sibling Coins",
+    "unknownToken": "Unknown",
+    "claimToken": "Claim token",
+    "token": "Token"    
+  },
+  "info": "Showing the last {{count}} records only"
 }

@@ -6,6 +6,7 @@
   "hash": "전송 해시",
   "type": "타입",
   "typeTxn": "전송",
+  "typeToken": "토큰 거래",
   "typePoolReward": "풀 보상",
   "typeFarmerReward": "파밍 보상",
   "age": "Age",
@@ -66,6 +67,10 @@
     },
     "parentCoin": "Parent Coin",
     "childCoins": "Child Coins",
-    "siblingCoins": "Sibling Coins"
-  }
+    "siblingCoins": "Sibling Coins",
+    "unknownToken": "알려지지 않은",
+    "claimToken": "클레임 토큰",
+    "token": "Token"    
+  },
+  "info": "마지막 {{count}}개 레코드만 표시"
 }

@@ -25,5 +25,7 @@
   "summaryWon": "Won {{percentage}}% of the last 10,000 blocks",
   "summaryNone": "No blocks won recently",
   "none": "None",
-  "comments": "Comments"
+  "comments": "Comments",
+  "latestRecords": "Latest 25 Token Transfer Events",
+  "viewAll": "View all"
 }

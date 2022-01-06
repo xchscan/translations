@@ -6,6 +6,7 @@
   "hash": "Хэш транзакции",
   "type": "type",
   "typeTxn": "Транзакция",
+  "typeToken": "Токен транзакции",
   "typePoolReward": "Награда пула",
   "typeFarmerReward": "Награда майнера",
   "age": "Время",
@@ -66,6 +67,10 @@
     },
     "parentCoin": "Parent Coin",
     "childCoins": "Child Coins",
-    "siblingCoins": "Sibling Coins"
-  }
+    "siblingCoins": "Sibling Coins",
+    "unknownToken": "Неизвестный",
+    "claimToken": "Требовать токен",
+    "token": "жетон"    
+  },
+  "info": "Показаны только последние {{count}} записи"
 }
