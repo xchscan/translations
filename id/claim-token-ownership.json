@@ -44,6 +44,9 @@
     "logo": {
       "label": "Tautan Logo"
     },
+    "total_supply": {
+      "label": "Total pasokan"
+    },
     "info": {
       "label": "Setor {{amount}} XCH ke alamat berikut untuk membuktikan kepemilikan Anda:",
       "tooltip": "Alamat pengiriman harus sama dengan alamat yang ingin Anda tambahkan informasinya."

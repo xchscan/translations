@@ -6,6 +6,7 @@
   "hash": "Txn哈希",
   "type": "类型",
   "typeTxn": "交易",
+  "typeToken": "代币交易",
   "typePoolReward": "池奖励",
   "typeFarmerReward": "耕种者奖励",
   "age": "时期",
@@ -66,6 +67,10 @@
     },
     "parentCoin": "Parent Coin",
     "childCoins": "Child Coins",
-    "siblingCoins": "Sibling Coins"
-  }
+    "siblingCoins": "Sibling Coins",
+    "unknownToken": "未知",
+    "claimToken": "申领令牌",
+    "token": "令牌"    
+  },
+  "info": "仅显示最后 {{count}} 条记录"
 }

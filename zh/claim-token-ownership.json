@@ -48,9 +48,12 @@
     "logo": {
       "label": "标志链接"
     },
-    "button": "提交",
-    "successMessage": "谢谢，我们会审核您的申请并在批准后上架",
-    "errorMessage": "出问题了！",
+    "total_supply": {
+      "label": "总供应量"
+    },
+    "button": "Submit",
+    "successMessage": "Thank you, we will review your application and list it after its been approved",
+    "errorMessage": "Something went wrong!",
     "coinmarket": "CoinMarketCap"
   }
 }
