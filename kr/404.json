@@ -5,5 +5,6 @@
   "addressDescription": "<0>죄송합니다!</0> 주소(address)를 찾을 수 없습니다.",
   "blockDescription": "<0>죄송합니다!</0> 블록(Block)을 찾을 수 없습니다.",
   "txnDescription": "<0>죄송합니다!</0> 트랜잭션(Transaction)을 찾을 수 없습니다.",
-  "back": "홈으로 돌아가기"
+  "back": "홈으로 돌아가기",
+  "tokenDescription": "<0>죄송합니다!</0> 토큰을 찾을 수 없음"
 }

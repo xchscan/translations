@@ -5,5 +5,6 @@
   "addressDescription": "<0>Maaf!</0> Alamat tidak ditemukan.",
   "blockDescription": "<0>Maaf!</0> Blok tidak ditemukan.",
   "txnDescription": "<0>Maaf!</0> Transaksi tidak ditemukan.",
-  "back": "Kembali ke Beranda"
+  "back": "Kembali ke Beranda",
+  "tokenDescription": "<0>Maaf!</0> Token tidak ditemukan."
 }
