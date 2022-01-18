@@ -3,6 +3,7 @@
   "metaDescription": "All Chia (XCH) Transactions confirmed on Chia Blockchain. The list consists of transactions from sending Chia (XCH) and the transactions details for each transaction.",
   "heading": "Transactions",
   "listing": "More than > {{count}} transactions found",
+  "listingToken": "More than > {{count}} Token transfers found",
   "hash": "Txn Hash",
   "type": "Type",
   "typeTxn": "Transaction",

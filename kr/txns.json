@@ -3,6 +3,7 @@
   "metaDescription": "모든 컨펌된 치아(XCH) 트랜잭션. 해당 목록은 치아 발송자와 개별 트랜잭션의 세부 내역을 보여줍니다.",
   "heading": "전송",
   "listing": "More than > {{count}} transactions found",
+  "listingToken": "More than > {{count}}  Token transfers found",
   "hash": "전송 해시",
   "type": "타입",
   "typeTxn": "전송",

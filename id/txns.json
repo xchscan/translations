@@ -3,6 +3,7 @@
   "metaDescription": "Semua transaksi Chia (XCH) dikonfirmasi di Chia Blockchain. Daftar ini terdiri dari pengiriman Chia (XCH) dan detail transaksi untuk setiap transaksi.",
   "heading": "Transaksi",
   "listing": "Lebih dari > {{count}} transaksi ditemukan",
+  "listingToken": "Lebih dari > {{count}} Token transaksi ditemukan",
   "hash": "Txn Hash",
   "type": "Tipe",
   "typeTxn": "Transaksi",
