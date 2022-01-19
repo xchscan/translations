@@ -22,13 +22,15 @@
     "filters": {
       "all": "所有筛选条件",
       "txns": "Txns",
-      "blocks": "区块"
+      "blocks": "区块",
+      "token": "Tokens"
     },
     "placeholder": "按地址/Txn哈希/区块搜索",
     "list": {
       "address": "地址",
       "txns": "Txns",
-      "blocks": "区块"
+      "blocks": "区块",
+      "tokens": "Tokens"
     }
   },
   "footer": {

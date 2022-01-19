@@ -22,13 +22,15 @@
     "filters": {
       "all": "All Filters",
       "txns": "Txns",
-      "blocks": "Blocks"
+      "blocks": "Blocks",
+      "token": "Tokens"
     },
     "placeholder": "Search by Address / Txn Hash / Block",
     "list": {
       "address": "Addresses",
       "txns": "Txns",
-      "blocks": "Blocks"
+      "blocks": "Blocks",
+      "tokens": "Tokens"
     }
   },
   "footer": {
