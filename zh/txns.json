@@ -3,6 +3,7 @@
   "metaDescription": "在 Chia 区块链上确认的所有 Chia (XCH) 交易。该列表由发送 Chia (XCH) 的交易和每笔交易的交易详情组成",
   "heading": "交易",
   "listing": "找到超过>{count}个交易",
+  "listingToken": "发现超过 {{count}} token 次转移",
   "hash": "Txn哈希",
   "type": "类型",
   "typeTxn": "交易",
