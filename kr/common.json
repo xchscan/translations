@@ -22,13 +22,15 @@
     "filters": {
       "all": "모든 필터",
       "txns": "전송",
-      "blocks": "블록"
+      "blocks": "블록",
+      "token": "Tokens"
     },
     "placeholder": "지갑주소 / 전송 해시 / 블록",
     "list": {
       "address": "지갑주소",
       "txns": "전송",
-      "blocks": "블록"
+      "blocks": "블록",
+      "tokens": "Tokens"
     }
   },
   "footer": {

@@ -22,13 +22,15 @@
     "filters": {
       "all": "Semua Filter",
       "txns": "Txns",
-      "blocks": "Blok"
+      "blocks": "Blok",
+      "token": "Tokens"
     },
     "placeholder": "Cari berdasarkan alamat / Txn Hash / Blok",
     "list": {
       "address": "Alamat",
       "txns": "Txns",
-      "blocks": "Blok"
+      "blocks": "Blok",
+      "tokens": "Tokens"
     }
   },
   "footer": {
