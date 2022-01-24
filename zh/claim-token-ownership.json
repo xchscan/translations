@@ -4,7 +4,7 @@
   "heading": "声明代币所有权",
   "form": {
     "heading": "索取您的令牌信息",
-    "content": "通过填写下面的表格，声明您的姓名并添加与您的 Chia 令牌相关的其他信息。对于每个编辑请求，我们将要求您提供 {{amount}} XCH 存款以证明您的所有权。",
+    "content": "通过填写下面的表格声明您的姓名并添加与您的Chia令牌相关的其他信息。对于每个编辑请求，我们将要求{{amount}}XCH存款以证明您的所有权。您应该从钱包地址 - {{address}}转账以声明您的所有权",
     "address": {
       "label": "XCH 地址"
     },
@@ -31,7 +31,7 @@
     },
     "blog": {
       "label": "Blog (Or Medium)"
-    },   
+    },
     "keybase": {
       "label": "Keybase"
     },
