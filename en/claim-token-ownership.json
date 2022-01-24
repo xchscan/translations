@@ -4,7 +4,7 @@
   "heading": "Claim Token Ownership",
   "form": {
     "heading": "Claim your token info",
-    "content": "Claim your Name and add other information related to your Chia Token by filling in the form below. For each edit request, we will ask for a {{amount}} XCH deposit to prove your ownership.",
+    "content": "Claim your Name and add other information related to your Chia Token by filling in the form below. For each edit request, we will ask for a {{amount}} XCH deposit to prove your ownership. You should transfer from the wallet address - {{address}} to claim your ownership",
     "address": {
       "label": "XCH Address"
     },

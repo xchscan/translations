@@ -4,7 +4,7 @@
   "heading": "Klaim Kepemilikan Token",
   "form": {
     "heading": "Klaim info token Anda",
-    "content": "Klaim Nama Anda dan tambahkan informasi lain terkait Chia Token Anda dengan mengisi formulir di bawah ini. Untuk setiap permintaan edit, kami akan meminta setoran {{amount}} XCH untuk membuktikan kepemilikan Anda.",
+    "content": "Klaim Nama Anda dan tambahkan informasi lain yang terkait dengan Chia Token Anda dengan mengisi formulir di bawah ini. Untuk setiap permintaan edit, kami akan meminta deposit XCH {{amount}} untuk membuktikan kepemilikan Anda. Anda harus mentransfer dari alamat dompet - {{address}} untuk mengklaim kepemilikan Anda",    
     "address": {
       "label": "Alamat XCH"
     },
