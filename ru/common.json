@@ -79,5 +79,10 @@
     "donation": "Пожертвование",
     "centralisedExchange": "Централизованный обмен",
     "decentralisedExchange": "Децентрализованная биржа"
+  },
+  "chiaoutofsync": {
+    "metaTitle": "| состояния синхронизации Chia XCHsскан",
+    "metaDescription": "XCHscan является ведущей платформой Blockchain Explorer, Search, API и Analytics для блокчейна Chia, децентрализованной платформы смарт-контрактов.",
+    "heading": "Состояние синхронизации Chia"
   }
 }
