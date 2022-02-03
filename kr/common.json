@@ -79,5 +79,10 @@
     "donation": "Donation",
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
+  },
+  "chiaoutofsync": {
+    "metaTitle": "치아 동기화 상태 | XCHscan",
+    "metaDescription": "XCHscan은 분산형 스마트 계약 플랫폼인 치아 블록체인을 위한 선도적인 블록체인 탐색기, 검색, API 및 분석 플랫폼입니다.",
+    "heading": "치아 동기화 상태"
   }
 }

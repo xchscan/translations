@@ -79,5 +79,10 @@
     "donation": "Donation",
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
+  },
+  "chiaoutofsync": {
+    "metaTitle": "Chia sync status | XCHscan",
+    "metaDescription": "XCHscan is the leading Blockchain Explorer, Search, API and Analytics Platform for Chia blockchain, a decentralized smart contracts platform.",
+    "heading": "Chia sync status"
   }
 }

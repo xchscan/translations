@@ -79,5 +79,10 @@
     "donation": "Donation",
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
+  },
+  "chiaoutofsync": {
+    "metaTitle": "Status sinkronisasi chia | XCHscan",
+    "metaDescription": "XCHscan adalah Blockchain Explorer, Search, API, dan Analytics Platform terkemuka untuk blockchain Chia, platform kontrak cerdas terdesentralisasi.",
+    "heading": "Status sinkronisasi chia"
   }
 }
