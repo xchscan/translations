@@ -83,6 +83,7 @@
   "chiaoutofsync": {
     "metaTitle": "Status sinkronisasi chia | XCHscan",
     "metaDescription": "XCHscan adalah Blockchain Explorer, Search, API, dan Analytics Platform terkemuka untuk blockchain Chia, platform kontrak cerdas terdesentralisasi.",
-    "heading": "Status sinkronisasi chia"
+    "heading": "Status sinkronisasi chia",
+    "content": "Penjelajah blockchain ini tidak sinkron. Beberapa blok atau transaksi mungkin tertunda."
   }
 }

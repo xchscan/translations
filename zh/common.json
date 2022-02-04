@@ -83,6 +83,7 @@
   "chiaoutofsync": {
     "metaTitle": "奇亚同步状态|旭创网",
     "metaDescription": "XCHHscan是Chia区块链的领先区块链资源管理器，搜索，API和分析平台，这是一个分散的智能合约平台。",
-    "heading": "奇亚同步状态"
+    "heading": "奇亚同步状态",
+    "content": "此区块链资源管理器不同步。某些区块或交易可能会延迟。"
   }
 }
