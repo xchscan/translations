@@ -2,6 +2,7 @@
   "header": {
     "menu": {
       "home": "Главная",
+      "settings": "Параметры",
       "pools": "Пулы",
       "pool": "Пул XCHscan",
       "otherPools": "Список пулов Chia",
@@ -10,14 +11,18 @@
       "viewBlocks": "Просмотр блоков",
       "viewTxns": "Просмотр транзакций",
       "topFarmers": "Лучшие майнеры",
-      "languages": "Языки",
       "logIn": "Вход",
       "signUp": "зарегистрироваться",
       "charts": "Графики и статистика",
       "topAccounts": "Топ аккаунты",
       "tokens": "Жетоны",
       "toptoken": "Лучшие токены",
-      "viewTokenTrasfers": "Просмотр переводов токенов"
+      "viewTokenTransfers": "Просмотр переводов токенов"
+    },
+    "settings":{
+      "languages": "Языки",
+      "darkMode": "Темный режим",
+      "advancedMode": "Расширенный режим"
     }
   },
   "search": {

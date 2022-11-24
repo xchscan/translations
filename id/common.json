@@ -2,6 +2,7 @@
   "header": {
     "menu": {
       "home": "Beranda",
+      "settings": "Pengaturan",
       "pools": "Pools",
       "pool": "Pool XCHscan",
       "otherPools": "Pools Lainnya",
@@ -10,14 +11,18 @@
       "viewBlocks": "Lihat Blok",
       "viewTxns": "Lihat Txns",
       "topFarmers": "Top farmers",
-      "languages": "Bahasa",
       "logIn": "Masuk",
       "signUp": "Daftar",
       "charts": "Grafik & Statistik",
       "topAccounts": "Top Accounts",
       "tokens": "Tokens",
       "toptoken": "Top Tokens",
-      "viewTokenTrasfers": "Lihat Transfer Token"
+      "viewTokenTransfers": "Lihat Transfer Token"
+    },
+    "settings": {
+      "languages": "Bahasa",
+      "darkMode": "Mode Gelap",
+      "advancedMode": "Mode Lanjutan"
     }
   },
   "search": {

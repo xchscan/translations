@@ -2,6 +2,7 @@
   "header": {
     "menu": {
       "home": "Home",
+      "settings": "Settings",
       "pools": "Pools",
       "pool": "XCHscan Pool",
       "otherPools": "List of Chia Pools",
@@ -10,14 +11,18 @@
       "viewBlocks": "View Blocks",
       "viewTxns": "View Txns",
       "topFarmers": "Top Farmers",
-      "languages": "Languages",
       "logIn": "Log in",
       "signUp": "Sign up",
       "charts": "Charts & Stats",
       "topAccounts": "Top Accounts",
       "tokens": "Tokens",
       "toptoken": "Top Tokens",
-      "viewTokenTrasfers": "View Token Transfers"
+      "viewTokenTransfers": "View Token Transfers"
+    },
+    "settings": {
+      "languages": "Languages",
+      "darkMode": "Dark mode",
+      "advancedMode": "Advanced mode"
     }
   },
   "search": {

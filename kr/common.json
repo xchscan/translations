@@ -2,6 +2,7 @@
   "header": {
     "menu": {
       "home": "홈",
+      "settings": "설정",
       "pools": "치아 풀",
       "pool": "XCHscan 풀",
       "otherPools": "다른 풀 보기",
@@ -10,14 +11,18 @@
       "viewBlocks": "블록 조회",
       "viewTxns": "전송 조회",
       "topFarmers": "파머 순위",
-      "languages": "언어",
       "logIn": "로그인",
       "signUp": "가입하기",
       "charts": "차트 & 통계",
       "topAccounts": "상위 지갑",
       "tokens": "토큰",
       "toptoken": "상위 토큰",
-      "viewTokenTrasfers": "Lihat 전송 토큰"
+      "viewTokenTransfers": "Lihat 전송 토큰"
+    },
+    "settings": {
+      "languages": "언어",
+      "darkMode": "어둠 모드",
+      "advancedMode": "고급 모드"
     }
   },
   "search": {

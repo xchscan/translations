@@ -2,6 +2,7 @@
   "header": {
     "menu": {
       "home": "主页",
+      "settings": "设置",
       "pools": "池子",
       "pool": "XCHscan池",
       "otherPools": "其他池子",
@@ -10,14 +11,18 @@
       "viewBlocks": "查看区块",
       "viewTxns": "查看Txns",
       "topFarmers": "顶尖农场主",
-      "languages": "语言",
       "logIn": "登录",
       "signUp": "注册",
       "charts": "图表和统计",
       "topAccounts": "Top Accounts",
       "tokens": "代币",
       "toptoken": "热门代币",
-      "viewTokenTrasfers": "查看代币转移"
+      "viewTokenTransfers": "查看代币转移"
+    },
+    "settings":{
+      "languages": "语言",
+      "darkMode": "深色模式",
+      "advancedMode": "高级模式"
     }
   },
   "search": {
