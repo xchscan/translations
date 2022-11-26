@@ -18,12 +18,18 @@
       "tokens": "토큰",
       "toptoken": "상위 토큰",
       "viewTokenTransfers": "Lihat 전송 토큰"
-    },
-    "settings": {
-      "languages": "언어",
-      "darkMode": "어둠 모드",
-      "advancedMode": "고급 모드"
     }
+  },
+  "settings": {
+    "languages": "언어",
+    "darkMode": "어둠 모드",
+    "darkModeDetailed": "어둠 모드",
+    "darkModeValues": {
+      "dark": "Dark",
+      "light": "Light",
+      "system": "System"
+    },
+    "advancedMode": "고급 모드"
   },
   "search": {
     "filters": {

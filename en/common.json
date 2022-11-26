@@ -18,12 +18,18 @@
       "tokens": "Tokens",
       "toptoken": "Top Tokens",
       "viewTokenTransfers": "View Token Transfers"
-    },
-    "settings": {
-      "languages": "Languages",
-      "darkMode": "Dark mode",
-      "advancedMode": "Advanced mode"
     }
+  },
+  "settings": {
+    "languages": "Languages",
+    "darkMode": "Dark mode",
+    "darkModeDetailed": "Dark mode detailed settings",
+    "darkModeValues": {
+      "dark": "Dark",
+      "light": "Light",
+      "system": "System"
+    },
+    "advancedMode": "Advanced mode"
   },
   "search": {
     "filters": {

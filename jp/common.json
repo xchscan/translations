@@ -1,0 +1,103 @@
+{
+  "header": {
+    "menu": {
+      "home": "",
+      "settings": "設定",
+      "pools": "",
+      "pool": "",
+      "otherPools": "",
+      "farmingCalculator": "",
+      "blockchain": "",
+      "viewBlocks": "",
+      "viewTxns": "",
+      "topFarmers": "",
+      "logIn": "ログイン",
+      "signUp": "登録",
+      "charts": "",
+      "topAccounts": "",
+      "tokens": "",
+      "toptoken": "",
+      "viewTokenTransfers": ""
+    }
+  },
+  "settings": {
+    "languages": "言語",
+    "darkMode": "ダーク モード",
+    "darkModeDetailed": "ダーク モード",
+    "darkModeValues": {
+      "dark": "Dark",
+      "light": "Light",
+      "system": "System"
+    },
+    "advancedMode": "エキスパート モード"
+  },
+  "search": {
+    "filters": {
+      "all": "",
+      "txns": "",
+      "blocks": "",
+      "token": ""
+    },
+    "placeholder": "",
+    "list": {
+      "address": "",
+      "txns": "",
+      "blocks": "",
+      "tokens": ""
+    }
+  },
+  "footer": {
+    "description": "",
+    "poweredBy": "",
+    "links": {
+      "pools": "",
+      "pool": "",
+      "otherPools": "",
+      "farmingCalculator": "",
+      "explore": "",
+      "blockExplorer": "",
+      "latestBlocks": "",
+      "latestTxns": "",
+      "company": "",
+      "about": "",
+      "advertise": "",
+      "contact": "",
+      "terms": "",
+      "privacyPolicy": "プライバシー ポリシー",
+      "charts": "",
+      "api": "",
+      "submitPool": "",
+      "kb": "",
+      "fundamentals": "",
+      "buySell": ""
+    }
+  },
+  "sponsored": "",
+  "pagination": {
+    "first": "",
+    "last": ""
+  },
+  "validation": {
+    "required": "",
+    "invalid": ""
+  },
+  "chart": {
+    "source": ""
+  },
+  "trademark": "",
+  "tags": {
+    "service": "",
+    "pool": "",
+    "personal": "",
+    "shop": "",
+    "donation": "",
+    "centralisedExchange": "中央集権型取引所",
+    "decentralisedExchange": "分散型取引所"
+  },
+  "chiaoutofsync": {
+    "metaTitle": "",
+    "metaDescription": "",
+    "heading": "",
+    "content": ""
+  }
+}

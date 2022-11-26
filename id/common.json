@@ -18,12 +18,18 @@
       "tokens": "Tokens",
       "toptoken": "Top Tokens",
       "viewTokenTransfers": "Lihat Transfer Token"
-    },
-    "settings": {
-      "languages": "Bahasa",
-      "darkMode": "Mode Gelap",
-      "advancedMode": "Mode Lanjutan"
     }
+  },
+  "settings": {
+    "languages": "Bahasa",
+    "darkMode": "Mode Gelap",
+    "darkModeDetailed": "Mode Gelap",
+    "darkModeValues": {
+      "dark": "Dark",
+      "light": "Light",
+      "system": "System"
+    },
+    "advancedMode": "Mode Lanjutan"
   },
   "search": {
     "filters": {

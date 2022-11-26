@@ -18,12 +18,18 @@
       "tokens": "代币",
       "toptoken": "热门代币",
       "viewTokenTransfers": "查看代币转移"
-    },
-    "settings":{
-      "languages": "语言",
-      "darkMode": "深色模式",
-      "advancedMode": "高级模式"
     }
+  },
+  "settings":{
+    "languages": "语言",
+    "darkMode": "深色模式",
+    "darkModeDetailed": "深色模式",
+    "darkModeValues": {
+      "dark": "Dark",
+      "light": "Light",
+      "system": "System"
+    },
+    "advancedMode": "高级模式"
   },
   "search": {
     "filters": {

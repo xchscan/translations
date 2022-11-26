@@ -18,12 +18,18 @@
       "tokens": "Жетоны",
       "toptoken": "Лучшие токены",
       "viewTokenTransfers": "Просмотр переводов токенов"
-    },
-    "settings":{
-      "languages": "Языки",
-      "darkMode": "Темный режим",
-      "advancedMode": "Расширенный режим"
     }
+  },
+  "settings":{
+    "languages": "Языки",
+    "darkMode": "Темный режим",
+    "darkModeDetailed": "Темный режим",
+    "darkModeValues": {
+      "dark": "Dark",
+      "light": "Light",
+      "system": "System"
+    },
+    "advancedMode": "Расширенный режим"
   },
   "search": {
     "filters": {
