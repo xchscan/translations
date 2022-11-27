@@ -23,7 +23,7 @@
   "settings": {
     "languages": "Languages",
     "darkMode": "Dark mode",
-    "darkModeDetailed": "Dark mode detailed settings",
+    "darkModeAuto": "Auto",
     "darkModeValues": {
       "dark": "Dark",
       "light": "Light",

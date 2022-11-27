@@ -23,7 +23,7 @@
   "settings":{
     "languages": "Языки",
     "darkMode": "Темный режим",
-    "darkModeDetailed": "Темный режим",
+    "darkModeAuto": "Авто",
     "darkModeValues": {
       "dark": "Dark",
       "light": "Light",

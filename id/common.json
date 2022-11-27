@@ -23,7 +23,7 @@
   "settings": {
     "languages": "Bahasa",
     "darkMode": "Mode Gelap",
-    "darkModeDetailed": "Mode Gelap",
+    "darkModeAuto": "Otomatis",
     "darkModeValues": {
       "dark": "Dark",
       "light": "Light",

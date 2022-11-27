@@ -23,7 +23,7 @@
   "settings":{
     "languages": "语言",
     "darkMode": "深色模式",
-    "darkModeDetailed": "深色模式",
+    "darkModeAuto": "自动",
     "darkModeValues": {
       "dark": "Dark",
       "light": "Light",

@@ -23,7 +23,7 @@
   "settings": {
     "languages": "언어",
     "darkMode": "어둠 모드",
-    "darkModeDetailed": "어둠 모드",
+    "darkModeAuto": "자동",
     "darkModeValues": {
       "dark": "Dark",
       "light": "Light",
