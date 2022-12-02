@@ -18,7 +18,8 @@
       "tokens": "Жетоны",
       "toptoken": "Лучшие токены",
       "viewTokenTransfers": "Просмотр переводов токенов"
-    }
+    },
+    "goBack": "Назад"
   },
   "settings":{
     "languages": "Языки",

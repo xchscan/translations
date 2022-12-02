@@ -18,7 +18,8 @@
       "tokens": "Tokens",
       "toptoken": "Top Tokens",
       "viewTokenTransfers": "Lihat Transfer Token"
-    }
+    },
+    "goBack": "Kembali"
   },
   "settings": {
     "languages": "Bahasa",

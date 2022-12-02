@@ -18,7 +18,8 @@
       "tokens": "토큰",
       "toptoken": "상위 토큰",
       "viewTokenTransfers": "Lihat 전송 토큰"
-    }
+    },
+    "goBack": "뒤로 가기"
   },
   "settings": {
     "languages": "언어",

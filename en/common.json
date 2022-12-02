@@ -18,7 +18,8 @@
       "tokens": "Tokens",
       "toptoken": "Top Tokens",
       "viewTokenTransfers": "View Token Transfers"
-    }
+    },
+    "goBack": "Go back"
   },
   "settings": {
     "languages": "Languages",
